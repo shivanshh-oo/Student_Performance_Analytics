@@ -1,0 +1,1546 @@
+Student_ID,Department,Semester,Admission_Year,Attendance_Pct,CGPA,Num_Backlogs,Marks_Trend,Study_Hours_Per_Day
+STU1496,ECE,8,2023,79.7,10.0,0.0,Stable,11.3
+STU0544,Electronics,1,2022,,8.26,0.0,Improving,10.2
+STU1269,Computer Science,2,2023,94.6,9.31,0.0,Improving,9.8
+STU0529,IT,2,2023,,5.18,1.0,Declining,10.4
+STU1095,Civil,7,2022,95.8,8.14,0.0,Improving,9.0
+STU0808,Civil,1,2025,77.0,8.57,3.0,Declining,
+STU0914,Computer Science,4,2024,78.5,,1.0,Declining,7.5
+STU1073,Civil,6,2022,91.4,7.04,1.0,Declining,11.0
+STU1204,Computer Science,1,2022,100.0,8.72,1.0,Improving,9.8
+STU1175,Electronics,1,2025,99.3,8.69,0.0,Stable,9.3
+STU0429,Information Technology,8,2025,100.0,9.93,0.0,Stable,8.6
+STU1409,Civil,8,2023,69.3,9.43,3.0,Improving,4.8
+STU1293,Civil,5,2024,74.7,7.75,0.0,Improving,9.8
+STU0317,Civil,5,2025,77.6,8.55,0.0,Improving,8.6
+STU0031,Civil,7,2025,54.0,6.5,5.0,Declining,7.4
+STU0969,Elec,3,2023,75.2,7.32,1.0,Stable,5.8
+STU0307,Computer Science,7,2023,74.6,7.13,0.0,Stable,4.8
+STU0937,Computer Science,5,2023,73.7,8.29,0.0,Improving,9.0
+STU0579,Mechanical,6,2025,83.0,5.59,0.0,Declining,8.4
+STU0340,Electronics,7,2025,100.0,8.39,0.0,Declining,7.7
+STU0480,Information Technology,3,2024,44.3,4.63,3.0,Declining,6.7
+STU0678,Civil,4,2025,64.1,6.64,0.0,Stable,7.9
+STU0608,Computer Science,1,2023,100.0,10.0,0.0,Stable,12.3
+STU0372,Electronics,5,2024,77.3,7.09,1.0,Improving,
+STU0469,Computer Science,5,2025,94.4,9.98,0.0,Stable,9.6
+STU0276,Civil,3,2024,64.1,7.43,1.0,Improving,6.3
+STU1048,Civil,7,2022,67.6,6.58,3.0,Declining,10.2
+STU0933,Mechanical,2,2023,84.4,8.47,0.0,Stable,7.2
+STU0702,Civil,7,2022,83.5,9.14,1.0,Improving,7.5
+STU0487,Comp Science,1,2022,68.5,8.46,2.0,Declining,4.9
+STU1173,Information Technology,5,2023,68.6,5.02,0.0,Declining,8.5
+STU1390,Electronics,6,2022,57.4,5.17,1.0,Stable,4.4
+STU0840,civil,4,2022,100.0,9.29,0.0,Improving,9.8
+STU1363,Electronics,2,2024,95.3,,0.0,Improving,6.2
+STU0100,Computer Science,2,2023,82.0,7.76,0.0,Stable,8.5
+STU0847,Electronics,5,2025,70.1,8.05,0.0,Declining,5.1
+STU0742,information technology,8,2022,74.5,7.15,0.0,Improving,3.8
+STU0463,information technology,7,2025,82.2,7.54,2.0,Declining,7.7
+STU0384,Electronics,7,2025,83.1,8.35,0.0,Improving,6.5
+STU0507,Electronics,7,2022,79.3,8.71,3.0,Stable,8.6
+STU0484,Information Technology,1,2024,70.6,-1.94,1.0,Stable,6.0
+STU0169,Computer Science,5,2025,71.0,7.73,0.0,Stable,8.6
+STU0060,mechanical,8,2022,100.0,9.07,0.0,Improving,13.4
+STU0024,CS,4,2023,56.0,6.82,3.0,Declining,4.7
+STU0921,Civil,1,2025,72.9,7.59,0.0,Stable,7.0
+STU0345,Mechanical,2,2023,79.1,7.02,0.0,Stable,8.3
+STU0050,Electronics,3,2024,62.8,5.51,4.0,Declining,5.7
+STU1287,Civil,4,2022,80.9,6.83,0.0,Stable,7.4
+STU1023,Civil,1,2024,85.1,6.09,2.0,Stable,9.0
+STU0755,Civil,2,2024,68.4,5.36,0.0,Improving,5.4
+STU0515,ECE,8,2024,82.4,7.7,2.0,Stable,
+STU0221,Mechanical,7,2022,85.5,9.37,0.0,Improving,9.2
+STU1069,Computer Science,3,2024,66.3,5.94,1.0,Declining,6.4
+STU1161,Computer Science,4,2025,95.6,8.71,0.0,Improving,7.4
+STU0066,Electronics,3,2024,,6.96,0.0,Stable,7.8
+STU0430,Electronics,6,2023,84.5,7.65,3.0,Declining,9.4
+STU0479,Information Technology,8,2025,90.7,9.68,0.0,Improving,8.3
+STU0637,Computer Science,4,2025,71.0,7.47,0.0,Improving,8.9
+STU0994,Mechanical,2,2022,50.0,5.16,2.0,Stable,2.3
+STU1031,Information Technology,8,2025,67.4,5.65,3.0,Improving,6.3
+STU0938,Computer Science,2,2025,66.2,6.01,1.0,Stable,4.8
+STU0813,Computer Science,4,2023,100.0,,0.0,Stable,8.6
+STU0683,Mechanical,3,2022,72.6,6.37,0.0,Declining,7.8
+STU0240,Information Technology,8,2023,81.9,7.76,0.0,,8.5
+STU0124,Civil,8,2025,88.3,6.95,2.0,Stable,8.0
+STU0644,Civil,4,2025,87.3,7.35,0.0,Improving,12.4
+STU0077,Computer Science,8,2022,100.0,10.0,0.0,,
+STU0846,Information Technology,8,2023,68.9,8.98,2.0,Stable,7.7
+STU1275,Civil,6,2022,54.3,5.44,1.0,Declining,5.3
+STU0782,Computer Science,5,2022,100.0,8.04,0.0,Improving,12.1
+STU0052,Electronics,1,2024,59.1,7.14,2.0,Declining,5.8
+STU0071,Computer Science,4,2023,56.6,8.88,3.0,Declining,2.6
+STU0434,Civil,3,2025,100.0,9.39,0.0,Improving,12.6
+STU1286,Computer Science,4,2024,86.5,7.18,0.0,Improving,5.9
+STU0241,Civil,2,2023,72.5,5.95,5.0,Declining,
+STU0125,Computer Science,4,2025,79.6,,0.0,Declining,
+STU1102,Computer Science,8,2025,70.1,8.39,0.0,Stable,3.7
+STU0375,Computer Science,5,2024,77.8,5.98,5.0,Stable,6.9
+STU1400,Civil,2,2022,85.1,7.6,0.0,Improving,8.0
+STU0980,Civil,6,2023,97.2,8.99,0.0,Stable,8.6
+STU0975,electronics,6,2024,50.7,5.43,4.0,Declining,7.1
+STU0333,Computer Science,4,2023,66.2,6.69,2.0,Improving,5.6
+STU1147,Civil,4,2025,64.4,7.54,3.0,Declining,
+STU0260,Mechanical,7,2022,99.7,10.0,0.0,Stable,12.8
+STU0176,MECHANICAL,3,2023,92.7,8.15,0.0,Improving,10.6
+STU1484,Computer Science,5,2022,74.6,7.54,1.0,Declining,10.1
+STU0716,Electronics,8,2022,64.1,5.69,0.0,Improving,5.5
+STU0602,Electronics,7,2025,91.3,7.99,0.0,Stable,10.8
+STU0899,Computer Science,5,2025,69.2,6.98,0.0,Stable,5.7
+ STU1091 ,Information Technology,4,2023,66.4,8.39,4.0,Declining,7.0
+STU1422,Computer Science,3,2024,65.8,6.26,2.0,Stable,4.9
+STU1019,Mechanical,8,2023,78.6,7.04,0.0,Improving,6.7
+STU1375,Information Technology,8,2022,73.1,5.29,0.0,Improving,8.3
+STU1308,Computer Science,1,2023,84.3,,0.0,Declining,10.2
+STU1337,Mech,1,2024,76.1,8.36,0.0,Improving,
+STU0486,Civil,5,2023,87.3,7.46,0.0,Improving,9.4
+STU0353,Computer Science,5,2025,88.2,10.0,1.0,Declining,10.1
+STU0068,Mechanical,3,2024,98.6,10.0,0.0,Improving,9.8
+STU0845,Information Technology,3,2025,65.6,8.13,4.0,Declining,8.6
+STU0907,Information Technology,8,2022,71.8,7.81,0.0,Improving,9.0
+STU0271,CIVIL,5,2023,74.5,5.28,5.0,Declining,10.1
+STU1089,Electronics,4,2025,,7.4,2.0,Declining,1.9
+STU0536,Information Technology,1,2025,100.0,10.0,0.0,Improving,9.7
+STU1442,Civil,5,2025,79.8,7.81,0.0,Stable,8.3
+STU0723,Mechanical,1,2024,100.0,6.94,0.0,Stable,8.4
+STU0910,Mechanical,1,2023,72.2,8.47,2.0,Stable,7.1
+STU0714,Civil,5,2022,72.5,6.95,0.0,Stable,5.6
+STU0811,electronics,7,2022,76.3,7.93,0.0,Improving,10.5
+STU0966,Mechanical,6,2024,80.1,6.82,1.0,Stable,9.5
+STU0030,Electronics,4,2024,100.0,7.89,1.0,Stable,11.3
+STU0586,Information Technology,7,2022,94.4,7.57,0.0,Improving,9.7
+STU0539,Mechanical,8,2023,68.1,8.08,0.0,Improving,3.6
+STU1053,Computer Science,3,2025,76.6,6.74,0.0,Improving,6.3
+STU1213,Civil,1,2025,61.6,7.62,5.0,Declining,3.3
+STU0136,Civil,6,2023,100.0,9.33,0.0,Stable,11.7
+STU0680,Information Technology,5,2024,65.3,5.39,2.0,Improving,6.3
+STU0426,Mechanical,4,2023,59.1,7.31,1.0,Stable,5.9
+STU0527,information technology,2,2024,,7.3,2.0,Stable,5.1
+STU1094,Mechanical,6,2023,84.8,,0.0,Improving,9.7
+STU1439,Mechanical,6,2023,50.4,4.81,4.0,Declining,3.0
+STU0368,Civil,6,2022,66.5,5.87,1.0,Stable,4.9
+STU0185,Mechanical,8,2023,93.8,7.24,0.0,Improving,7.7
+STU0245,Civil,6,2022,62.6,6.3,4.0,Declining,6.5
+ STU1360 ,Information Technology,4,2022,58.7,,2.0,Declining,7.2
+STU0381,Mechanical,7,2022,73.8,5.35,2.0,Stable,10.4
+STU1358,Mechanical,1,2025,62.1,4.64,2.0,Declining,6.5
+STU1334,Computer Science,7,2022,71.8,7.74,0.0,Stable,5.9
+STU0842,Information Technology,4,2022,74.5,6.13,1.0,Stable,9.7
+STU1108,Information Technology,6,2025,88.4,,2.0,Declining,10.9
+STU0382,Information Technology,6,2023,73.8,7.11,3.0,Stable,11.2
+STU0590,Computer Science,1,2022,93.7,7.99,1.0,Improving,12.0
+STU0675,Computer Science,2,2023,86.9,8.72,0.0,Improving,5.2
+STU1106,Information Technology,3,2024,89.4,8.88,1.0,Declining,8.5
+STU0671,Civil,5,2023,66.5,6.53,1.0,Improving,
+STU0142,Information Technology,8,2022,71.7,9.34,1.0,Stable,5.5
+STU1366,Mechanical,5,2023,39.0,6.22,3.0,Stable,2.6
+STU1059,Mechanical,3,2022,63.0,7.6,3.0,Declining,5.4
+STU1244,Mechanical,3,2023,63.3,6.66,0.0,Improving,2.6
+STU0983,Electronics,5,2023,76.1,7.99,2.0,Improving,6.3
+STU1243,Civil,4,2025,84.9,8.22,0.0,Improving,9.1
+STU1474,Information Technology,6,2023,72.1,6.61,0.0,Improving,6.7
+STU0325,Computer Science,4,2024,100.0,9.38,0.0,Improving,10.2
+STU1054,Computer Science,2,2023,71.8,7.34,0.0,Improving,7.2
+STU0204,Computer Science,6,2022,61.5,,1.0,Stable,5.8
+STU0199,Info Tech,2,2022,88.0,7.01,0.0,Improving,8.3
+ STU0045 ,Mechanical,6,2025,109.1,6.32,4.0,Stable,5.1
+STU0927,Mechanical,2,2025,69.2,5.33,2.0,Improving,6.8
+STU0352,Mechanical,3,2024,78.6,5.82,5.0,Declining,7.0
+STU0947,Mechanical,7,2022,76.6,6.7,0.0,Stable,8.0
+STU1202,electronics,1,2024,63.3,5.92,3.0,Declining,6.7
+STU1259,Civil,4,2024,52.8,5.56,1.0,Stable,1.4
+STU0116,Information Technology,2,2022,,7.56,2.0,Improving,7.5
+STU0572,Mechanical,3,2025,55.0,5.58,4.0,Declining,5.8
+STU1007,Mechanical,6,2022,85.4,7.23,2.0,Stable,9.6
+STU0809,Computer Science,1,2025,79.4,6.86,0.0,Improving,7.6
+STU0355,Mechanical,8,2022,94.1,8.25,0.0,Improving,12.6
+STU1075,Information Technology,3,2024,71.9,7.23,0.0,Stable,2.5
+STU0950,Computer Science,2,2022,82.8,7.4,0.0,Stable,9.3
+STU0622,Mechanical,2,2025,83.1,7.64,0.0,Stable,4.4
+STU0079,Electronics,3,2022,80.8,8.72,1.0,Stable,
+STU0310,Information Technology,7,2022,85.7,-1.28,0.0,Stable,4.9
+STU1424,Civil,2,2025,75.6,7.92,0.0,Stable,8.1
+STU0673,Information Technology,6,2022,71.2,8.78,1.0,Stable,8.7
+STU0868,Information Technology,7,2025,82.3,8.49,2.0,Improving,6.5
+STU1253,Mechanical,8,2025,84.0,8.19,1.0,Stable,8.7
+STU0552,Mechanical,1,2025,59.5,6.32,3.0,Declining,5.6
+STU0016,Mechanical,8,2022,78.3,7.06,0.0,Declining,3.3
+ STU1433 ,Electronics,2,2025,61.3,7.8,2.0,Declining,4.0
+STU0797,Information Technology,2,2023,67.0,5.96,,Stable,7.0
+STU1162,Computer Science,2,2023,80.0,9.0,1.0,Stable,9.1
+STU1231,Civil,5,2024,,5.25,2.0,Declining,6.8
+STU1205,Civil,4,2025,80.9,7.7,0.0,Declining,8.0
+STU0498,Computer Science,7,2025,77.9,6.14,0.0,Stable,7.1
+STU1324,Information Technology,3,2024,82.4,6.54,0.0,Improving,9.6
+STU0553,Mechanical,2,2025,86.3,9.16,,Stable,5.7
+STU0186,Electronics,7,2022,63.0,5.18,0.0,Improving,4.8
+STU1132,Computer Science,5,2024,67.0,5.93,2.0,Declining,8.1
+STU1262,Computer Science,8,2023,63.5,7.24,3.0,Declining,7.4
+STU1377,Civil,5,2025,85.4,,0.0,Improving,9.1
+STU0775,Mechanical,2,2025,80.1,8.32,1.0,Stable,
+STU1038,Civil,5,2024,72.4,7.97,1.0,,7.7
+STU0901,Civil,4,2023,55.2,5.9,1.0,Stable,6.3
+STU1068,Information Technology,1,2023,73.0,,0.0,Declining,11.6
+STU1421,Computer Science,7,2025,88.2,10.0,0.0,Improving,7.1
+STU1049,Civil,3,2022,60.7,7.36,3.0,Stable,6.7
+STU0584,Computer Science,5,2022,97.9,9.45,0.0,Improving,8.2
+STU0746,Civil,2,2022,85.3,7.29,0.0,Improving,
+STU0665,Civil,1,2025,,10.0,2.0,Stable,11.0
+STU0057,Electronics,5,2022,73.2,6.25,0.0,Improving,7.3
+STU1014,Computer Science,6,2022,71.8,7.73,2.0,Stable,6.7
+STU1214,Electronics,7,2024,90.5,7.38,2.0,Stable,10.3
+STU1186,Civil,1,2024,63.9,6.78,2.0,Improving,8.2
+STU1471,Mechanical,5,2022,67.6,7.04,1.0,Declining,7.7
+STU0238,Electronics,4,2022,57.5,5.34,0.0,Stable,2.5
+STU0044,Mechanical,2,2023,86.4,,1.0,Stable,7.8
+STU1320,Mechanical,4,2025,91.3,9.02,1.0,Declining,10.7
+STU0383,Computer Science,8,2025,89.9,10.0,0.0,Improving,14.7
+STU0905,Electronics,5,2025,96.0,8.27,0.0,Declining,7.9
+STU0662,Mechanical,5,2022,74.4,6.5,1.0,Stable,6.3
+STU0102,Computer Science,4,2024,77.0,9.93,2.0,Declining,8.9
+STU0452,Electronics,4,2025,87.8,8.56,0.0,Improving,9.4
+STU0591,Computer Science,8,2025,80.2,8.3,1.0,Stable,6.6
+STU0108,Electronics,1,2025,75.3,5.73,1.0,Declining,5.4
+STU0367,Electronics,4,2025,,10.0,0.0,Improving,7.6
+STU1079,Civil,4,2025,55.0,6.11,4.0,Declining,6.4
+STU0332,Mechanical,1,2023,74.5,7.9,1.0,Stable,
+STU0421,Mechanical,1,2025,92.6,9.08,,Stable,9.9
+STU0275,Civil,2,2022,50.3,6.71,1.0,Declining,8.0
+STU1203,Civil,7,2022,94.8,9.32,0.0,Declining,10.5
+STU0814,Computer Science,6,2024,92.8,8.08,,Improving,9.6
+STU0737,Computer Science,1,2023,61.4,6.44,4.0,Declining,
+STU0129,Information Technology,6,2025,100.0,8.0,0.0,Stable,7.4
+STU0272,Computer Science,1,2024,64.1,6.69,1.0,Declining,7.8
+STU0863,Civil,2,2022,86.2,6.77,0.0,Declining,9.5
+STU0343,Civil,6,2024,85.5,9.25,1.0,Declining,9.8
+STU0719,MECHANICAL,4,2023,74.3,7.93,0.0,Stable,5.3
+STU1410,Computer Science,3,2022,60.4,5.39,2.0,Stable,7.3
+STU0514,Electronics,5,2024,70.8,8.9,0.0,Improving,8.5
+STU1270,Information Technology,3,2024,69.5,6.7,4.0,Stable,9.9
+STU0533,Mechanical,8,2025,78.2,7.18,1.0,Stable,4.2
+STU1404,Computer Science,4,2024,44.7,6.08,3.0,Declining,2.3
+STU0304,Information Technology,5,2024,58.1,6.43,1.0,Declining,4.9
+STU1109,Civil,6,2023,82.3,7.85,0.0,Improving,
+STU1285,Information Technology,5,2022,85.4,7.73,0.0,Stable,11.4
+STU0248,Computer Science,7,2025,94.7,8.47,0.0,Stable,10.5
+STU0033,Elec,3,2024,76.5,8.37,0.0,Improving,8.0
+STU0880,CIVIL,7,2022,79.2,9.43,1.0,Stable,8.4
+STU0616,CIVIL,3,2023,100.0,10.0,0.0,Improving,6.0
+STU1085,Electronics,1,2025,80.8,6.85,0.0,Improving,7.8
+STU0555,Information Technology,4,2024,67.5,5.51,2.0,Declining,8.7
+STU0491,Computer Science,7,2024,68.9,6.84,3.0,Declining,5.0
+STU0362,Electronics,4,2023,99.8,10.0,0.0,Stable,9.4
+STU0262,Civil,4,2025,113.1,6.73,2.0,Declining,6.4
+STU1466,Civil,6,2024,,9.01,0.0,Improving,11.9
+STU0923,Information Technology,8,2022,63.6,6.59,2.0,Declining,4.2
+STU0232,Computer Science,1,2023,65.1,6.44,1.0,Declining,9.4
+STU1207,Electronics,8,2022,54.8,5.44,4.0,Declining,10.2
+STU1321,Mechanical,5,2023,,8.2,0.0,Improving,8.9
+STU0483,Mechanical,2,2024,96.0,8.63,0.0,Improving,8.3
+STU0164,Computer Science,7,2024,84.9,8.01,,Declining,9.5
+STU0630,Electronics,2,2022,73.6,5.87,0.0,Improving,7.4
+STU1491,Civil,7,2022,66.3,5.95,3.0,Declining,6.0
+STU1312,Information Technology,6,2024,98.8,9.16,0.0,Improving,7.6
+STU0756,Civil,8,2023,84.9,7.55,0.0,Improving,5.8
+STU1497,Information Technology,2,2025,75.3,7.48,0.0,Stable,6.2
+STU0612,Computer Science,3,2025,98.1,9.31,1.0,Declining,
+STU1380,Mechanical,5,2024,100.0,8.95,0.0,Stable,7.3
+STU0354,Electronics,2,2025,,8.78,0.0,Stable,6.7
+STU1223,Electronics,5,2025,85.5,9.48,0.0,Declining,6.2
+STU0472,Information Technology,3,2024,75.0,7.58,3.0,Declining,10.8
+STU0193,Electronics,2,2024,86.0,8.82,0.0,Improving,8.2
+STU0711,Information Technology,8,2022,96.7,8.21,1.0,Stable,2.0
+STU0351,Mechanical,4,2022,66.6,7.3,1.0,,6.5
+STU0979,Civil,4,2022,65.0,6.89,3.0,Declining,4.1
+STU1399,Computer Science,2,2022,84.5,8.15,0.0,Declining,8.3
+STU0064,Mechanical,4,2023,,7.6,0.0,Improving,5.5
+STU0722,Civil,6,2025,100.0,9.5,0.0,Stable,11.3
+STU1092,Civil,4,2023,90.5,7.94,1.0,Stable,7.8
+STU0949,Information Technology,4,2025,55.3,7.11,1.0,Improving,5.5
+STU0844,Computer Science,4,2024,61.4,7.35,4.0,Declining,7.6
+STU0290,Electronics,6,2023,,8.56,0.0,Improving,7.9
+STU0433,Electronics,1,2022,93.3,8.49,1.0,Stable,6.8
+STU0589,ECE,3,2023,81.7,8.01,1.0,Declining,8.9
+STU0219,Computer Science,2,2023,91.4,7.51,3.0,Stable,7.7
+STU1339,Electronics,2,2023,34.1,5.37,5.0,Declining,4.4
+STU1247,Civil,5,2024,51.1,5.38,0.0,Stable,5.5
+STU1413,Electronics,2,2024,50.5,7.32,2.0,Declining,3.1
+STU0629,Electronics,8,2022,106.6,5.43,5.0,Declining,3.5
+STU1097,Electronics,7,2024,100.0,9.41,0.0,Improving,13.7
+STU1273,Computer Science,6,2022,90.9,8.68,0.0,Improving,6.7
+STU1103,Computer Science,5,2025,67.0,7.74,1.0,Stable,10.6
+STU0428,Information Technology,1,2025,73.4,7.7,0.0,Improving,6.4
+STU0655,Information Technology,5,2022,74.9,7.36,2.0,Stable,9.7
+ STU1033 ,Computer Science,5,2024,76.3,5.96,1.0,Stable,6.6
+STU0561,Computer Science,1,2024,83.2,7.99,0.0,Improving,6.2
+STU0298,Civil,3,2023,64.2,6.01,4.0,Declining,5.1
+STU0959,Civil,5,2024,67.0,6.27,2.0,Declining,5.1
+STU0611,Computer Science,1,2023,93.2,10.0,0.0,Stable,4.5
+STU0299,Electronics,3,2025,93.3,7.1,3.0,Declining,9.2
+STU1090,Computer Science,5,2022,67.8,6.94,3.0,Declining,7.6
+STU0661,Information Technology,7,2025,74.2,6.85,0.0,Stable,8.4
+STU1444,Civil,4,2023,58.5,6.09,3.0,Stable,3.9
+STU0412,Mechanical,6,2023,87.1,7.97,0.0,Declining,6.5
+STU0620,Electronics,6,2022,70.0,6.02,0.0,Improving,7.8
+STU1240,Computer Science,3,2024,75.5,9.87,0.0,Stable,7.1
+STU0278,Civil,6,2025,68.2,5.19,4.0,Improving,3.4
+STU1200,Mechanical,6,2022,84.2,7.81,0.0,Improving,8.7
+STU0880,Civil,7,2022,79.2,9.43,1.0,Stable,8.4
+STU0539,Mechanical,8,2023,68.1,8.08,0.0,Improving,3.6
+STU0237,Computer Science,2,2025,88.3,9.59,0.0,Improving,6.3
+STU1281,computer science,6,2022,85.6,6.45,0.0,Improving,7.8
+STU1353,Computer Science,3,2022,71.2,6.98,1.0,Declining,7.0
+STU1489,Information Technology,8,2025,89.7,8.78,1.0,Declining,10.2
+STU0906,Mechanical,4,2025,71.1,8.34,0.0,Improving,8.9
+STU1230,Information Technology,4,2025,100.0,9.53,1.0,Declining,8.4
+STU0209,Electronics,6,2024,77.9,7.0,,Declining,8.7
+STU0395,Information Technology,2,2022,85.2,8.14,0.0,Stable,8.8
+STU0427,Computer Science,1,2024,74.7,,1.0,Improving,6.9
+STU0658,Mechanical,3,2022,54.8,5.21,3.0,Declining,8.8
+STU0059,Electronics,4,2025,65.5,6.86,2.0,Declining,8.0
+STU0900,Civil,7,2025,93.6,7.7,3.0,Declining,6.9
+STU1492,Mech,4,2023,94.2,,0.0,Improving,12.2
+STU0495,Information Technology,4,2022,87.8,9.41,1.0,Declining,9.3
+STU0766,ECE,2,2024,46.2,5.95,5.0,Stable,7.5
+STU1226,Elec,3,2024,74.4,7.54,0.0,Improving,8.6
+STU0757,Information Technology,3,2024,46.7,,3.0,Declining,4.7
+STU1246,civil,2,2022,52.7,5.34,3.0,Declining,4.0
+STU0753,Computer Science,5,2022,86.0,7.49,2.0,Stable,8.3
+STU0870,Electronics,4,2023,63.6,5.22,4.0,Stable,5.2
+STU0482,Electronics,6,2025,,7.28,0.0,Improving,9.4
+STU0530,Information Technology,2,2024,66.2,4.34,1.0,Declining,8.6
+STU1189,Mechanical,2,2025,94.5,8.41,0.0,Improving,10.3
+STU0860,Civil,2,2022,79.6,8.29,0.0,Stable,10.5
+STU1141,Information Technology,5,2025,64.8,5.39,4.0,Declining,3.8
+STU0234,Electronics,7,2022,72.1,5.89,0.0,Improving,7.2
+STU0652,Mechanical,4,2024,84.8,6.09,0.0,Stable,7.0
+STU0197,Civil,4,2025,,7.03,1.0,Stable,7.1
+STU0585,Civil,1,2024,83.8,8.27,1.0,Stable,4.2
+STU1493,Computer Science,4,2023,57.8,5.39,1.0,Improving,5.6
+STU0082,Computer Science,3,2024,78.3,8.03,0.0,Stable,7.9
+STU1446,Civil,8,2022,66.6,8.05,1.0,Stable,6.6
+STU0951,Electronics,7,2022,100.0,9.85,0.0,Improving,8.4
+STU1191,Information Technology,4,2022,86.0,7.42,0.0,Stable,
+STU0112,Civil,8,2023,69.0,8.21,2.0,Stable,5.9
+STU1315,Information Technology,1,2024,85.0,9.2,3.0,Declining,9.3
+STU0865,Civil,1,2024,82.0,6.72,0.0,,12.6
+STU1305,Civil,8,2023,68.9,8.8,2.0,Stable,4.6
+STU0417,Mechanical,2,2024,86.3,7.03,0.0,Improving,8.8
+STU1304,Information Technology,1,2023,70.0,8.49,0.0,Stable,
+STU1477,Mechanical,1,2025,100.0,7.61,1.0,Declining,9.3
+STU1290,Information Technology,2,2024,40.0,6.33,5.0,Declining,3.7
+STU0311,Computer Science,4,2024,86.6,9.16,0.0,Improving,7.0
+STU0783,Computer Science,7,2025,73.7,8.5,0.0,Improving,6.3
+STU0423,Mechanical,4,2022,59.3,6.54,2.0,Stable,5.5
+STU0567,Civil,1,2023,73.1,6.54,0.0,Improving,7.5
+STU0465,Mechanical,6,2025,83.6,8.65,0.0,Stable,11.1
+STU1282,Mech,7,2022,100.0,7.88,1.0,Stable,13.1
+STU0406,Information Technology,7,2025,100.0,7.58,0.0,Stable,8.9
+STU1088,Civil,4,2025,97.2,9.41,0.0,Stable,7.7
+STU0571,Mechanical,1,2022,85.0,10.0,1.0,Declining,8.7
+STU1056,Civil,1,2025,87.1,6.6,3.0,Declining,12.6
+STU0440,Computer Science,1,2024,86.0,8.37,0.0,Declining,5.6
+STU0737,Computer Science,1,2023,61.4,6.44,4.0,Declining,5.3
+STU0888,Information Technology,7,2025,100.0,9.41,0.0,Improving,8.1
+STU0535,Civil,8,2022,64.4,6.8,5.0,Stable,0.2
+STU0781,Mechanical,8,2023,46.7,4.9,3.0,Declining,1.7
+ STU1252 ,Civil,8,2023,80.7,7.8,0.0,Stable,11.1
+STU1314,Computer Science,2,2023,94.5,8.53,0.0,Improving,10.7
+STU1193,Information Technology,5,2024,100.0,10.0,1.0,Stable,6.6
+STU1037,Mechanical,2,2025,34.4,5.11,3.0,Declining,2.8
+STU0799,Civil,3,2023,88.3,8.5,0.0,Improving,7.6
+STU1114,Civil,5,2024,77.4,7.66,0.0,Stable,8.6
+STU0255,computer science,2,2023,75.7,6.15,1.0,Improving,8.3
+STU0323,Mechanical,4,2022,71.4,6.94,2.0,Stable,7.5
+STU1125,Info Tech,2,2023,,8.21,3.0,Declining,7.8
+STU1166,Mechanical,5,2023,78.5,8.0,2.0,Stable,5.5
+STU1099,Electronics,4,2025,89.0,8.42,0.0,Improving,7.5
+STU0705,Computer Science,2,2022,73.8,7.41,0.0,Improving,7.6
+STU0571,Mechanical,1,2022,85.0,10.0,1.0,Declining,8.7
+STU0889,Mechanical,8,2024,86.3,7.97,0.0,Improving,10.3
+STU0366,Information Technology,2,2024,100.0,10.0,0.0,Stable,8.3
+STU0964,Information Technology,1,2023,74.3,8.29,0.0,Stable,6.2
+STU0087,Computer Science,1,2022,88.8,7.41,0.0,Stable,4.6
+STU1463,CIVIL,3,2024,65.8,7.28,5.0,Declining,4.7
+STU0266,Computer Science,2,2023,63.6,6.99,0.0,Stable,6.6
+STU0288,Information Technology,4,2022,73.9,6.49,0.0,Stable,5.4
+STU0280,Civil,5,2023,56.3,7.38,1.0,Stable,8.0
+STU0359,Computer Science,3,2024,82.6,8.31,0.0,Stable,7.0
+STU0454,Information Technology,6,2022,74.5,8.52,2.0,Stable,8.3
+STU1434,Information Technology,2,2022,77.5,,1.0,Stable,7.5
+STU0562,Computer Science,1,2022,54.5,6.58,2.0,Improving,3.1
+STU1435,Electronics,6,2025,70.0,7.93,,Stable,
+STU0773,Electronics,3,2025,,7.48,0.0,Improving,6.8
+STU0222,Computer Science,4,2024,78.7,,3.0,Stable,5.2
+STU0114,Civil,3,2025,93.1,6.27,1.0,Declining,7.6
+STU0603,Information Technology,5,2024,69.1,7.47,0.0,Stable,6.7
+STU0614,Civil,6,2024,70.7,7.25,0.0,Stable,3.3
+STU0175,Electronics,8,2023,100.0,9.59,0.0,Improving,11.8
+STU1113,Mech,6,2025,89.7,9.97,0.0,Stable,14.1
+STU1354,Computer Science,8,2025,74.7,8.94,0.0,Stable,6.9
+STU1081,Computer Science,4,2022,88.7,8.83,0.0,Improving,7.4
+STU1211,Information Technology,8,2024,,7.76,0.0,Stable,11.0
+STU0019,Computer Science,2,2025,72.7,7.78,2.0,Declining,5.7
+STU1034,Civil,7,2025,64.6,6.64,2.0,Declining,4.4
+STU0286,Information Technology,8,2025,80.7,,0.0,Stable,9.3
+STU0916,Information Technology,6,2022,68.1,8.03,2.0,Declining,2.1
+STU1011,Computer Science,3,2023,49.4,5.29,2.0,Improving,9.9
+STU1232,Mechanical,8,2023,100.0,8.47,2.0,Improving,10.4
+STU0032,Electronics,5,2022,65.6,7.15,1.0,Declining,3.4
+STU1220,Computer Science,7,2023,108.8,6.57,3.0,Declining,4.0
+STU0211,Civil,2,2024,61.6,5.52,3.0,Declining,7.9
+STU0830,Computer Science,1,2024,60.8,5.89,3.0,Declining,5.1
+STU1419,Electronics,8,2022,100.0,9.72,0.0,Improving,11.1
+STU1119,Information Technology,3,2022,58.8,6.82,1.0,Improving,0.9
+STU1344,Information Technology,6,2023,60.4,7.13,2.0,Declining,7.9
+STU1157,Computer Science,4,2023,91.2,9.12,0.0,Stable,4.7
+STU0985,Civil,2,2022,67.4,6.83,4.0,Declining,7.7
+STU0944,Civil,3,2025,72.1,7.98,0.0,Improving,8.7
+ STU1359 ,Information Technology,6,2024,67.2,5.56,3.0,Declining,5.7
+STU0189,Computer Science,6,2023,100.0,8.11,0.0,Improving,8.6
+STU0414,Electronics,8,2025,61.0,7.46,1.0,Declining,3.8
+STU0989,Civil,2,2025,67.1,5.93,3.0,Declining,11.1
+STU0528,Computer Science,6,2024,68.2,7.4,4.0,Declining,5.3
+STU0958,information technology,4,2024,100.0,8.42,0.0,Stable,14.4
+STU0416,Information Technology,5,2022,64.1,5.43,2.0,Stable,6.3
+STU1138,Civil,5,2024,93.9,8.23,0.0,Declining,11.3
+STU0084,Information Technology,5,2023,85.3,7.9,0.0,,11.5
+STU0708,Civil,7,2023,56.9,5.34,2.0,Stable,9.8
+STU0049,Mechanical,1,2024,100.0,10.0,0.0,Improving,8.5
+STU1322,Civil,4,2025,58.9,7.76,,Improving,6.5
+STU0156,Computer Science,1,2022,70.7,6.74,2.0,Stable,6.0
+STU1101,Information Technology,6,2025,53.2,8.58,2.0,Stable,8.2
+STU1174,Mechanical,1,2022,73.7,7.25,1.0,Stable,10.7
+STU0439,Electronics,5,2022,,5.88,2.0,Improving,7.1
+STU1084,Mechanical,8,2024,84.6,7.6,0.0,Stable,10.9
+STU0853,Electronics,6,2024,50.7,6.15,4.0,Declining,10.2
+STU1266,Electronics,1,2024,95.9,10.0,0.0,Improving,12.1
+STU0984,Mechanical,3,2025,,9.51,0.0,Stable,7.5
+STU1176,Computer Science,8,2025,40.7,5.04,3.0,Declining,5.8
+STU0180,computer science,1,2023,85.8,7.82,1.0,Declining,8.5
+STU1369,Electronics,3,2025,62.8,7.34,2.0,Declining,3.1
+STU1284,Mechanical,2,2024,71.9,7.92,1.0,Stable,8.5
+STU0577,Mechanical,6,2025,77.4,8.93,0.0,Improving,10.1
+STU0545,Computer Science,3,2024,60.4,6.63,2.0,Stable,5.4
+STU0862,MECHANICAL,4,2023,65.3,7.67,4.0,Improving,5.4
+STU0364,Information Technology,6,2023,88.4,7.25,3.0,Improving,9.9
+STU1212,Civil,4,2022,69.2,7.95,1.0,Stable,5.7
+STU1234,Mechanical,7,2022,75.9,,3.0,Declining,8.2
+STU0347,Civil,3,2025,85.2,8.16,1.0,Declining,9.9
+STU1118,Information Technology,6,2025,100.0,9.47,0.0,Improving,13.5
+STU0494,Computer Science,7,2022,97.1,9.06,0.0,Improving,13.5
+STU0721,Civil,7,2023,100.0,7.34,0.0,Improving,11.2
+STU0693,Electronics,2,2025,91.7,8.31,0.0,Improving,9.2
+STU1331,Information Technology,8,2024,76.3,6.84,3.0,Declining,8.4
+STU0621,Information Technology,2,2022,73.0,8.81,2.0,Stable,5.4
+STU0599,Information Technology,4,2023,83.5,8.06,1.0,Declining,9.2
+STU1086,Computer Science,5,2022,84.4,6.62,1.0,Stable,9.2
+STU0244,Civil,4,2024,84.1,7.85,0.0,Improving,
+STU0850,Civil,8,2022,74.1,6.29,0.0,Stable,7.1
+STU0568,Information Technology,5,2025,89.0,7.75,0.0,Stable,8.3
+STU0650,Mechanical,6,2024,90.3,8.91,0.0,Improving,
+STU0807,Civil,7,2025,75.1,8.76,0.0,Improving,11.5
+STU0940,Computer Science,1,2025,65.1,6.61,1.0,Improving,5.4
+STU0848,CIVIL,8,2023,62.2,7.89,1.0,Improving,3.5
+STU0436,electronics,7,2023,49.8,6.17,4.0,Improving,6.2
+STU1462,electronics,6,2025,68.4,8.14,1.0,Stable,4.4
+STU0576,Information Technology,6,2022,74.3,7.72,2.0,Declining,7.6
+STU0309,Information Technology,1,2024,55.0,6.04,5.0,Declining,5.8
+STU0431,Mechanical,4,2023,57.3,7.14,2.0,Declining,8.4
+STU0931,Mechanical,1,2024,95.4,8.62,0.0,Improving,10.1
+STU0399,Electronics,7,2023,76.1,7.49,0.0,Declining,8.8
+STU0424,Mechanical,8,2025,78.8,7.04,3.0,Declining,9.0
+STU0371,Mechanical,7,2023,72.2,7.88,3.0,Stable,11.3
+STU0055,Civil,7,2024,92.8,9.6,2.0,Improving,11.4
+STU1215,Computer Science,5,2023,91.7,9.37,0.0,Stable,12.7
+STU1280,Mechanical,7,2023,57.2,6.42,1.0,Stable,7.3
+STU0600,Information Technology,2,2023,46.5,6.35,4.0,Declining,3.6
+STU0313,Mechanical,6,2025,94.9,7.51,0.0,Stable,7.9
+STU0974,Information Technology,6,2022,80.2,6.73,0.0,Stable,5.8
+STU1197,Mechanical,2,2022,100.0,9.66,0.0,Stable,7.8
+STU0110,civil,5,2022,97.8,9.45,0.0,Improving,10.3
+STU0882,Information Technology,7,2023,59.4,7.64,4.0,Declining,4.1
+STU0728,Mechanical,7,2024,60.5,7.65,2.0,Declining,2.0
+STU0101,Electronics,7,2024,71.4,10.0,0.0,Improving,5.5
+STU0501,Electronics,5,2025,,6.78,1.0,Stable,9.1
+STU0706,ECE,7,2024,90.7,8.33,0.0,Improving,11.1
+STU1417,Computer Science,2,2023,76.4,8.32,0.0,Improving,9.1
+STU0267,Electronics,6,2024,83.2,6.15,0.0,Improving,6.4
+STU0715,Civil,2,2022,52.4,6.83,2.0,Stable,4.4
+STU0297,Information Technology,1,2022,61.2,7.68,3.0,Declining,6.3
+STU0875,Computer Science,4,2023,100.0,9.4,0.0,Stable,
+STU0462,Mechanical,1,2022,93.0,6.57,0.0,Stable,11.3
+STU1122,Computer Science,6,2022,59.2,6.58,1.0,Declining,7.1
+STU1036,Computer Science,4,2022,72.5,,1.0,Stable,5.1
+STU1182,Electronics,2,2023,63.8,4.88,1.0,Stable,9.5
+ STU0378 ,Mechanical,6,2022,99.7,9.73,0.0,Stable,11.6
+STU0287,Electronics,3,2023,69.8,8.86,2.0,Stable,9.1
+STU1482,information technology,7,2022,93.1,7.46,2.0,Stable,12.3
+STU0768,Information Technology,7,2025,84.9,8.29,1.0,Declining,8.9
+STU0127,Information Technology,3,2023,100.0,9.32,0.0,Improving,10.3
+STU0328,Information Technology,2,2024,88.3,5.91,0.0,Improving,7.0
+STU0293,Computer Science,6,2023,90.2,9.0,0.0,Improving,9.2
+STU0788,Electronics,3,2023,82.9,8.33,2.0,Improving,9.9
+STU0765,Mechanical,4,2025,44.4,5.82,3.0,Declining,4.7
+STU1008,Computer Science,6,2022,72.6,8.13,0.0,Stable,
+STU0356,Civil,5,2025,100.0,7.9,0.0,Improving,12.9
+STU1256,IT,7,2023,60.1,7.96,1.0,Declining,4.6
+STU0171,Computer Science,1,2024,,8.7,0.0,Improving,11.7
+STU0890,Electronics,4,2024,58.0,6.86,2.0,Stable,6.3
+STU1156,Civil,6,2024,64.9,5.92,1.0,Stable,2.5
+STU0987,Information Technology,2,2024,100.0,10.0,0.0,Improving,10.3
+STU0817,Computer Science,2,2024,64.7,7.11,0.0,Stable,3.6
+STU1306,Mechanical,2,2023,76.8,7.92,1.0,Stable,4.1
+STU0210,Electronics,7,2023,88.0,9.45,0.0,Improving,10.5
+STU1192,Computer Science,8,2025,,8.66,0.0,Improving,8.5
+STU0549,Computer Science,5,2023,84.9,7.66,0.0,Improving,8.3
+STU0141,Computer Science,6,2023,91.3,8.58,0.0,Stable,11.3
+STU1111,Computer Science,5,2022,,7.13,5.0,Declining,5.8
+STU1032,Mechanical,4,2024,67.3,7.0,0.0,Stable,7.1
+STU0819,information technology,2,2024,91.1,7.92,2.0,Stable,7.8
+STU1224,Civil,3,2025,100.0,8.35,0.0,Declining,9.3
+STU0723,Mechanical,1,2024,100.0,6.94,0.0,Stable,8.4
+STU0701,Civil,3,2022,85.2,6.99,0.0,Improving,9.7
+STU0651,Mechanical,2,2022,77.5,7.94,1.0,Stable,6.5
+STU0200,Electronics,1,2022,84.3,6.27,0.0,Declining,8.0
+STU0939,Computer Science,3,2022,,8.92,0.0,Stable,6.4
+STU1277,Computer Science,1,2022,76.9,7.04,1.0,Declining,9.7
+STU0745,Civil,5,2025,70.0,7.51,0.0,Improving,9.1
+STU1064,Computer Science,7,2022,85.7,8.4,0.0,Stable,8.6
+STU0731,Information Technology,7,2022,69.2,7.1,4.0,Declining,3.6
+STU0011,Electronics,2,2022,60.3,5.78,1.0,Declining,9.5
+STU0148,Civil,5,2025,61.9,7.54,1.0,Improving,5.5
+STU0694,Computer Science,2,2023,69.8,6.72,2.0,Declining,7.3
+STU0283,Computer Science,7,2022,81.1,8.3,0.0,Improving,7.5
+STU0292,Computer Science,3,2025,90.4,,0.0,Improving,11.1
+STU0583,Computer Science,2,2024,87.3,5.23,1.0,Stable,7.5
+STU1047,Electronics,4,2024,71.1,6.7,2.0,Stable,8.4
+STU0130,Information Technology,7,2024,79.6,7.59,0.0,Improving,8.7
+STU0324,Computer Science,6,2025,53.9,5.46,0.0,Improving,4.6
+STU0818,Computer Science,6,2023,92.3,7.98,3.0,Declining,13.1
+STU0523,Electronics,7,2025,62.5,7.64,1.0,Improving,6.0
+STU0592,Computer Science,6,2024,78.4,4.85,3.0,Stable,10.1
+STU0670,Computer Sci,4,2025,72.7,7.57,0.0,Improving,5.7
+STU0436,Electronics,7,2023,49.8,6.17,4.0,Improving,6.2
+STU0694,Computer Science,2,2023,69.8,6.72,2.0,Declining,7.3
+STU1427,Electronics,5,2024,,8.3,0.0,Improving,12.6
+STU0159,Computer Science,2,2022,61.7,4.93,4.0,Declining,4.2
+STU0618,Mechanical,8,2022,64.8,7.39,0.0,Improving,8.1
+STU0998,Computer Science,5,2023,59.9,6.08,3.0,Declining,4.0
+STU1104,CIVIL,3,2023,88.8,8.44,0.0,Improving,9.2
+STU0196,CIVIL,2,2022,100.0,9.42,0.0,Declining,11.8
+STU1278,Information Technology,1,2022,76.9,7.49,1.0,Improving,8.1
+STU1388,Computer Science,7,2025,78.8,7.4,0.0,Improving,5.4
+STU0411,Mechanical,3,2023,84.3,7.28,0.0,,5.5
+STU0097,Information Technology,1,2023,91.2,8.76,0.0,Stable,7.0
+STU0615,Computer Science,2,2025,96.5,7.22,3.0,Declining,7.3
+STU0157,Electronics,8,2025,67.9,6.29,1.0,Declining,3.0
+STU0420,Electronics,1,2025,73.6,8.37,2.0,Stable,8.9
+STU1416,Civil,1,2022,100.0,10.0,0.0,Improving,8.5
+STU0478,Computer Science,2,2022,78.9,7.95,0.0,Improving,7.1
+STU1346,Electronics,6,2022,100.0,7.97,2.0,Declining,10.0
+STU0681,Information Technology,4,2024,86.6,7.14,0.0,Improving,7.6
+STU0988,Electronics,3,2023,94.1,9.96,0.0,Stable,6.3
+STU0448,Computer Science,6,2024,81.8,8.23,0.0,Improving,13.0
+STU0179,Information Technology,8,2025,65.5,6.94,1.0,Improving,6.5
+STU0391,Computer Science,3,2024,100.0,6.3,2.0,Stable,7.4
+STU1328,Electronics,5,2025,100.0,8.27,0.0,Improving,10.2
+STU0894,Electronics,8,2022,,7.19,0.0,Improving,
+ STU1279 ,Mechanical,2,2022,100.0,7.94,0.0,Improving,10.1
+STU1472,Mechanical,2,2025,64.2,7.36,0.0,Improving,6.1
+STU1074,Civil,6,2023,100.0,8.52,0.0,Stable,10.4
+STU0669,mechanical,7,2025,70.7,6.46,0.0,Stable,7.9
+STU1272,Mechanical,4,2023,79.2,9.36,0.0,Improving,5.3
+STU1143,Computer Science,4,2022,95.8,8.08,0.0,,12.6
+STU0902,Computer Science,3,2024,35.5,5.48,3.0,Stable,3.3
+STU1089,Electronics,4,2025,63.7,7.4,2.0,Declining,1.9
+STU0295,Electronics,8,2025,90.3,7.0,0.0,Stable,9.4
+STU0835,Information Technology,1,2025,96.1,8.27,0.0,Improving,9.7
+STU0919,Information Technology,7,2022,78.9,8.48,1.0,Stable,6.6
+STU0089,Electronics,4,2022,63.7,6.68,4.0,Declining,5.2
+STU0042,Computer Science,7,2022,73.2,5.31,3.0,Declining,8.6
+STU1327,Civil,8,2023,80.1,7.89,0.0,Stable,7.5
+STU0632,Computer Science,4,2022,60.7,8.84,2.0,Improving,3.7
+STU0695,Computer Science,1,2023,76.2,7.62,2.0,Improving,7.7
+STU1429,Information Technology,4,2023,98.6,9.75,0.0,Stable,6.4
+STU1443,Mechanical,1,2024,76.3,7.44,2.0,Declining,7.7
+STU1461,Mechanical,8,2025,65.5,6.97,4.0,Declining,7.0
+STU0291,Civil,2,2022,58.5,7.84,5.0,Declining,5.1
+STU1369,Electronics,3,2025,62.8,7.34,2.0,Declining,3.1
+STU0627,Electronics,2,2022,78.7,7.13,0.0,Improving,5.8
+STU0349,Mechanical,6,2022,91.0,7.85,0.0,Declining,8.6
+STU0598,Info Tech,1,2022,57.0,4.56,0.0,Improving,5.2
+STU1454,Civil,2,2025,91.6,8.78,0.0,Improving,9.9
+STU1168,Information Technology,5,2024,91.1,7.49,2.0,Improving,12.4
+STU0874,Electronics,2,2024,100.0,9.0,0.0,Stable,9.1
+STU0679,Information Technology,8,2023,77.5,8.86,2.0,Declining,6.2
+STU0459,Mechanical,4,2024,100.0,8.55,0.0,Stable,12.0
+STU0376,Civil,1,2022,67.7,6.59,0.0,,4.7
+ STU0334 ,Information Technology,2,2025,67.6,5.78,2.0,Declining,7.3
+STU1313,Mechanical,4,2023,84.7,6.79,0.0,Improving,9.5
+STU1362,Civil,5,2024,46.4,5.9,1.0,Declining,3.1
+STU1201,Mechanical,8,2022,77.2,8.95,0.0,Declining,8.7
+STU1265,Computer Science,1,2025,100.0,9.99,0.0,Improving,8.7
+STU1431,Mechanical,6,2023,88.3,6.22,0.0,Stable,12.2
+STU0597,Information Technology,7,2022,,8.93,0.0,Improving,4.6
+STU0329,Mechanical,1,2025,70.5,6.82,0.0,Stable,6.1
+STU0319,Mechanical,4,2025,81.4,7.94,1.0,Improving,11.4
+STU1188,Civil,2,2023,62.6,6.05,2.0,Improving,7.2
+STU1005,Info Tech,6,2025,70.7,6.79,0.0,Improving,5.1
+STU0013,Information Technology,1,2023,88.7,6.78,0.0,Stable,10.4
+STU0172,Computer Science,4,2025,74.2,6.57,0.0,Stable,7.7
+STU0261,Mechanical,1,2025,72.6,8.31,3.0,Declining,7.3
+STU0866,Information Technology,3,2022,97.1,9.11,0.0,Stable,
+STU0908,Civil,8,2025,95.3,10.0,0.0,Improving,9.9
+STU1495,Electronics,6,2022,78.5,7.23,1.0,Stable,7.4
+STU0139,Mechanical,4,2023,59.2,5.86,3.0,Stable,2.7
+STU0550,Mechanical,8,2024,57.5,7.24,2.0,Declining,10.3
+STU1378,Mechanical,6,2025,70.0,7.76,5.0,Declining,5.3
+STU0893,Mechanical,4,2024,94.2,,0.0,Stable,9.6
+STU0821,Computer Science,7,2022,68.9,8.31,3.0,Improving,5.1
+ STU0559 ,Computer Science,6,2024,62.9,6.6,3.0,Declining,3.7
+STU0140,Information Technology,1,2024,83.5,6.04,1.0,Declining,9.1
+STU1348,Information Technology,6,2025,93.4,8.91,0.0,Improving,6.6
+STU1233,Computer Science,2,2025,88.2,7.73,1.0,Improving,9.4
+STU0225,Computer Science,3,2022,88.5,7.69,1.0,Improving,11.4
+STU0619,Electronics,6,2024,100.0,7.44,0.0,Stable,12.2
+STU0410,Electronics,2,2023,85.2,7.8,0.0,Improving,7.6
+STU0326,Computer Science,4,2022,,10.0,0.0,Stable,10.2
+STU0300,Comp Science,4,2024,82.1,7.83,2.0,Improving,10.5
+STU0941,Mechanical,1,2023,69.7,6.17,3.0,Stable,5.4
+STU1487,MECHANICAL,8,2023,100.0,9.25,0.0,Declining,10.6
+STU0707,Information Technology,5,2025,77.3,8.86,2.0,Stable,9.0
+STU1432,Information Technology,2,2024,100.0,8.98,0.0,Stable,10.8
+STU0999,Electronics,6,2025,83.8,8.09,0.0,Improving,9.5
+STU1227,Civil,8,2023,62.6,7.44,0.0,Improving,7.5
+STU0574,civil,2,2022,87.2,8.17,0.0,Stable,10.7
+STU0504,Civil,2,2022,99.8,7.95,0.0,Improving,11.8
+STU0606,Civil,5,2025,70.4,8.07,0.0,Declining,12.3
+STU0803,Electronics,3,2023,79.5,7.42,1.0,Declining,9.6
+STU0004,information technology,4,2024,75.1,8.4,0.0,Improving,
+STU0977,Information Technology,8,2023,76.6,8.14,0.0,Stable,8.9
+STU0468,civil,3,2024,96.4,6.87,0.0,Improving,14.0
+STU0322,Mechanical,4,2022,90.4,7.09,0.0,Stable,8.7
+STU0006,MECHANICAL,8,2024,89.8,8.74,0.0,Improving,8.0
+STU0223,Civil,1,2023,78.1,,0.0,Improving,7.3
+STU0548,Mechanical,6,2024,63.8,4.99,3.0,Declining,3.6
+STU0789,Computer Science,2,2022,55.2,6.19,1.0,Declining,3.8
+STU0040,Mechanical,3,2023,68.8,7.49,3.0,Stable,2.8
+STU0543,Mechanical,1,2025,80.6,7.18,1.0,Declining,10.9
+STU0243,Computer Science,6,2025,51.4,5.36,2.0,Stable,4.3
+STU0137,Electronics,4,2025,56.2,7.63,3.0,Declining,7.8
+STU1222,Electronics,1,2023,75.8,6.79,2.0,Stable,6.7
+STU0635,Computer Science,2,2022,100.0,10.0,0.0,Stable,9.3
+STU0291,Civil,2,2022,58.5,7.84,5.0,Declining,5.1
+STU0712,Information Technology,1,2025,77.1,8.52,3.0,Declining,10.2
+STU1098,Computer Science,5,2023,100.0,9.36,0.0,Improving,5.7
+STU0793,Electronics,5,2024,71.2,7.82,1.0,Improving,8.7
+STU1407,Information Technology,1,2024,63.5,6.62,2.0,Stable,7.4
+STU0582,Information Technology,2,2023,58.3,4.93,1.0,Stable,7.2
+ STU0044 ,mechanical,2,2023,86.4,10.0,1.0,Stable,7.8
+STU1499,Electronics,2,2023,88.4,8.17,0.0,Improving,11.9
+STU1430,Mechanical,4,2025,82.7,9.03,0.0,Improving,9.9
+STU0377,Electronics,6,2024,70.6,5.26,2.0,Stable,8.8
+STU0315,Mechanical,7,2023,86.5,8.86,0.0,Stable,8.3
+STU0443,Civil,4,2022,82.9,8.94,0.0,Improving,7.9
+STU0320,Civil,5,2022,72.5,7.74,0.0,Improving,3.4
+STU1035,Electronics,6,2024,90.6,8.19,0.0,Improving,5.6
+STU0837,Mechanical,4,2025,85.0,9.25,0.0,Stable,8.2
+STU1165,Mechanical,1,2022,65.1,7.18,0.0,Improving,8.1
+STU0425,Civil,3,2023,67.4,7.25,1.0,Stable,6.1
+STU0554,Information Technology,6,2022,87.4,7.53,0.0,Stable,10.6
+STU0595,Electronics,1,2025,65.7,6.69,2.0,Declining,3.7
+STU0945,Civil,4,2025,82.8,6.9,0.0,Improving,7.7
+STU1335,Electronics,1,2024,70.8,7.49,0.0,Stable,8.9
+STU0812,Mechanical,8,2025,81.2,7.03,1.0,Stable,7.2
+STU1254,Electronics,2,2023,80.0,7.28,0.0,Stable,9.8
+STU0922,Information Technology,5,2024,80.6,7.53,1.0,Declining,10.1
+STU0228,Mechanical,3,2023,70.1,5.83,2.0,Stable,
+STU1300,Electronics,2,2023,,7.76,3.0,Declining,6.2
+STU0856,Electronics,2,2024,77.0,8.9,0.0,Stable,8.4
+STU1028,Mechanical,4,2024,69.0,8.53,3.0,Stable,9.5
+STU0725,Computer Science,8,2025,82.4,8.89,0.0,Stable,7.2
+STU0067,MECHANICAL,3,2022,,7.7,2.0,Declining,10.2
+STU0394,Computer Science,4,2024,58.2,7.12,1.0,Improving,5.7
+STU0580,Electronics,3,2025,99.5,8.47,0.0,Stable,9.2
+STU0025,Computer Science,4,2024,80.5,7.33,2.0,Stable,5.7
+STU0212,Electronics,6,2022,72.2,7.82,0.0,Improving,5.0
+STU1194,Mechanical,4,2023,78.0,7.26,0.0,Improving,9.5
+STU0825,Computer Science,8,2024,92.9,7.22,0.0,Stable,11.0
+ STU0537 ,Civil,4,2025,112.5,8.23,0.0,Stable,6.3
+STU0963,Mechanical,7,2024,81.5,7.32,0.0,Improving,6.4
+STU1133,Information Technology,5,2025,81.4,7.02,2.0,Declining,7.6
+STU0086,Computer Science,3,2022,75.1,8.96,2.0,Declining,4.7
+STU1481,Mechanical,7,2024,63.4,7.69,2.0,Stable,5.6
+STU0273,Computer Science,5,2025,91.4,8.62,0.0,Improving,7.1
+STU0968,Information Technology,5,2024,61.2,7.46,5.0,Declining,6.2
+STU0744,Information Technology,1,2022,80.9,8.53,0.0,Stable,6.9
+STU1392,Computer Science,4,2024,77.1,8.11,0.0,Improving,7.0
+STU0631,Information Technology,6,2022,81.6,8.06,1.0,Improving,10.4
+STU1387,Computer Science,3,2022,78.7,5.93,2.0,Improving,7.3
+STU1441,Information Technology,2,2022,87.6,8.97,0.0,Improving,8.0
+STU0506,Computer Science,4,2025,89.8,8.25,0.0,Declining,13.4
+STU0274,Electronics,3,2025,93.5,9.46,0.0,Improving,10.6
+STU0760,Mechanical,7,2024,64.4,7.51,4.0,Stable,7.8
+STU0363,Electronics,8,2023,57.9,7.04,1.0,Declining,6.5
+STU0623,Electronics,6,2025,100.0,10.0,0.0,Improving,6.5
+STU0003,Civil,2,2025,39.6,6.57,4.0,Declining,2.8
+STU0007,Civil,1,2023,77.7,5.68,5.0,Stable,6.7
+STU0312,Civil,1,2024,77.1,8.09,0.0,Stable,6.3
+STU1030,Computer Science,8,2022,85.1,9.72,0.0,Stable,10.8
+STU0666,Computer Science,4,2024,68.3,5.58,4.0,Declining,6.1
+STU0991,Mechanical,4,2025,58.6,6.17,4.0,Declining,5.2
+STU1238,Computer Science,4,2022,79.2,7.9,0.0,Declining,9.7
+STU0216,Civil,2,2022,76.9,7.09,0.0,Improving,7.1
+STU1453,civil,5,2022,81.4,7.86,0.0,Improving,7.8
+STU0028,Mechanical,4,2022,81.7,7.86,0.0,Stable,7.7
+STU1121,Mechanical,6,2023,93.1,7.8,0.0,Improving,8.4
+STU0915,Electronics,6,2025,40.7,5.61,4.0,Declining,6.8
+STU0713,Mechanical,2,2025,92.3,10.0,0.0,Declining,8.1
+STU0639,Electronics,2,2022,76.9,7.85,0.0,Improving,7.3
+STU1139,Electronics,2,2022,83.5,7.48,2.0,Stable,9.6
+STU0692,Information Technology,6,2022,,7.66,2.0,Improving,7.1
+STU1050,Computer Science,7,2024,51.7,5.95,1.0,Declining,6.5
+STU0625,MECHANICAL,3,2024,,6.21,0.0,Declining,6.6
+STU1146,Electronics,1,2022,78.7,8.39,3.0,Declining,5.5
+STU0257,Computer Science,2,2025,80.4,6.73,0.0,Improving,10.9
+STU0026,Civil,3,2022,78.8,7.54,2.0,Stable,8.8
+STU0337,Computer Science,8,2025,77.0,9.8,0.0,Improving,7.6
+STU0573,Civil,4,2025,89.4,7.94,3.0,Stable,5.9
+STU0048,Information Technology,4,2024,95.1,9.02,0.0,Improving,5.3
+STU0107,Civil,6,2022,89.2,6.71,1.0,Stable,5.8
+STU0350,Information Technology,5,2025,91.3,8.84,0.0,Improving,8.4
+STU0056,Computer Science,5,2024,76.9,8.48,0.0,Stable,8.6
+STU1178,Computer Science,8,2022,83.1,8.25,0.0,Stable,6.9
+STU0214,Mechanical,2,2025,90.7,8.93,0.0,Improving,11.1
+STU0121,Mechanical,8,2025,78.2,7.23,3.0,Declining,8.3
+STU0918,Computer Science,8,2022,63.3,5.92,1.0,Stable,2.9
+STU1158,computer science,2,2022,,8.35,0.0,Improving,8.4
+STU0073,Information Technology,4,2022,71.6,8.57,0.0,Stable,9.1
+STU1169,Mechanical,6,2023,54.6,9.03,3.0,Declining,5.6
+STU0758,Mechanical,4,2024,69.2,7.29,0.0,Stable,6.1
+STU0046,Computer Science,2,2025,81.7,7.17,0.0,Improving,6.0
+STU1302,Mechanical,2,2025,81.1,7.49,1.0,Stable,7.3
+ STU0524 ,Civil,7,2022,84.0,8.04,2.0,Declining,8.3
+STU0917,Civil,2,2025,84.8,8.59,0.0,Stable,12.6
+STU1180,Computer Science,1,2024,61.9,5.45,3.0,Stable,7.8
+STU1112,Electronics,5,2023,96.7,8.32,0.0,Improving,8.2
+STU0839,Civil,1,2024,63.8,8.09,,Declining,6.5
+STU0534,Information Technology,7,2022,91.5,8.74,0.0,Improving,7.3
+STU1170,Information Technology,2,2023,100.0,8.69,0.0,Stable,10.3
+STU0604,Electronics,3,2024,79.9,5.99,4.0,Improving,7.0
+STU0466,Mechanical,5,2023,83.8,7.33,0.0,Improving,12.6
+STU1126,Civil,7,2024,100.0,9.5,0.0,Improving,8.0
+STU1316,Mechanical,2,2025,98.2,6.7,0.0,Stable,5.8
+STU0820,Electronics,8,2022,100.0,9.7,0.0,Stable,9.5
+STU1000,Civil,1,2022,81.8,7.6,3.0,Declining,6.7
+STU0061,Mechanical,2,2022,53.9,6.31,0.0,Stable,6.1
+STU0953,Electronics,3,2022,81.4,9.33,1.0,Stable,
+STU0093,Civil,5,2023,73.3,7.82,2.0,Stable,
+STU0667,Information Technology,3,2024,60.0,7.76,1.0,Stable,6.4
+STU0742,Information Technology,8,2022,74.5,7.15,0.0,Improving,3.8
+STU0195,Electronics,8,2022,73.2,6.4,2.0,Improving,9.3
+STU0281,Mechanical,8,2024,64.2,8.24,4.0,Declining,8.2
+STU0696,MECHANICAL,5,2024,68.5,,3.0,Declining,4.2
+STU0360,Information Technology,2,2022,88.8,8.52,0.0,Improving,8.2
+STU0520,Civil,7,2023,94.1,8.26,0.0,Stable,11.5
+STU1235,Mechanical,6,2022,70.2,4.59,0.0,Stable,6.7
+STU0810,Information Technology,3,2022,81.8,6.77,0.0,Stable,10.2
+STU0183,Computer Science,1,2023,87.8,7.27,0.0,Stable,9.4
+STU1055,Information Technology,2,2022,63.8,,2.0,Declining,6.5
+STU0111,Computer Science,5,2023,99.3,9.45,1.0,Stable,9.7
+STU0043,Electronics,2,2022,97.2,8.99,0.0,Improving,9.9
+STU0747,Civil,8,2024,61.5,6.96,1.0,Stable,8.0
+STU0967,Computer Science,2,2025,48.5,-0.34,5.0,Declining,6.9
+STU0205,Electronics,1,2025,84.6,7.68,1.0,Stable,9.7
+STU1051,Electronics,3,2025,72.2,6.69,0.0,Stable,6.6
+STU0053,Electronics,7,2023,74.5,7.33,0.0,Declining,9.0
+STU0546,Information Technology,7,2023,64.6,7.35,2.0,Declining,10.4
+STU0069,Electronics,1,2022,44.8,6.29,3.0,Declining,2.7
+STU1002,Electronics,7,2025,66.7,4.16,5.0,Declining,4.7
+STU0904,Electronics,6,2023,86.3,7.28,0.0,Stable,7.9
+STU0794,Mechanical,1,2025,96.9,9.69,0.0,Stable,3.8
+STU0184,Mechanical,6,2022,55.5,5.31,3.0,Declining,5.0
+STU0138,Mechanical,4,2025,77.8,7.22,0.0,Improving,8.8
+STU1024,Information Technology,7,2023,74.0,4.61,5.0,Declining,8.4
+STU0081,Information Technology,6,2023,84.4,7.49,0.0,Improving,6.3
+STU1343,Civil,5,2025,78.3,7.65,0.0,Stable,6.9
+STU0106,Information Technology,4,2025,68.3,8.8,4.0,,5.5
+STU1198,Information Technology,8,2025,62.8,5.96,3.0,Declining,9.0
+STU0542,Mechanical,4,2023,91.4,8.0,0.0,Stable,12.1
+STU0778,Information Technology,5,2023,81.2,7.34,0.0,Stable,6.0
+STU0481,Computer Science,3,2024,68.9,7.73,3.0,Declining,
+STU0166,Mechanical,6,2025,67.8,6.74,,Declining,6.1
+STU0249,Electronics,7,2025,68.6,6.74,4.0,Declining,7.3
+STU0308,Electronics,7,2024,77.3,6.03,0.0,Stable,7.1
+STU0447,Civil,7,2023,64.1,5.9,4.0,Declining,2.0
+STU0786,Computer Science,7,2023,71.6,8.37,0.0,,7.9
+STU0335,Electronics,5,2025,64.3,7.37,5.0,Stable,8.4
+STU0098,Mechanical,8,2023,71.2,5.14,2.0,Declining,8.8
+STU0859,Computer Science,6,2023,91.7,9.35,0.0,Declining,10.3
+STU0738,Electronics,2,2022,81.3,6.21,3.0,Declining,12.5
+STU0926,Civil,4,2023,80.4,9.77,2.0,Stable,8.6
+STU0883,Civil,8,2023,83.0,5.81,3.0,Declining,8.8
+STU0995,Information Technology,1,2022,60.6,6.7,2.0,Stable,10.0
+STU0103,Electronics,8,2023,100.0,8.82,0.0,Stable,8.5
+STU0435,Electronics,5,2025,54.2,5.51,1.0,Stable,4.8
+STU0075,Information Technology,5,2022,54.0,6.78,1.0,Declining,6.1
+STU1382,Computer Science,1,2022,77.3,10.0,0.0,Stable,7.9
+STU0925,Civil,6,2025,87.2,7.19,0.0,Stable,7.6
+STU1401,Civil,8,2022,66.1,4.86,1.0,Stable,6.0
+STU0303,Computer Science,3,2025,83.9,8.98,2.0,Declining,6.5
+STU1332,Information Technology,6,2022,65.9,5.62,2.0,Declining,9.3
+STU1301,Information Technology,3,2025,90.6,9.5,,Improving,4.8
+STU1260,Computer Science,1,2024,62.6,5.74,3.0,Declining,5.6
+STU0763,Information Technology,2,2022,82.4,8.24,2.0,Stable,4.5
+STU0734,Mechanical,5,2023,69.9,6.63,1.0,Declining,7.9
+STU0389,Computer Science,6,2024,61.7,5.34,1.0,,5.0
+STU0236,Mechanical,1,2023,87.3,8.73,0.0,Stable,5.9
+STU1365,Information Technology,5,2024,73.5,6.21,2.0,Declining,7.0
+STU0268,Computer Sci,4,2025,77.3,6.75,0.0,Stable,12.4
+STU0306,Electronics,6,2024,95.5,8.96,0.0,Improving,11.9
+STU0990,Mechanical,6,2023,83.4,7.75,0.0,Stable,5.6
+STU0118,Civil,7,2025,91.4,8.63,0.0,Stable,7.9
+STU1248,Mechanical,5,2023,57.7,5.11,2.0,Stable,5.3
+STU0674,Electronics,3,2024,80.7,8.45,0.0,Improving,8.0
+STU0250,Civil,3,2024,100.0,8.27,0.0,Stable,11.2
+STU1221,Mechanical,3,2023,57.5,5.98,2.0,Declining,5.5
+STU1107,Computer Science,4,2023,98.6,8.94,,Stable,9.0
+STU0072,Information Technology,8,2023,74.0,7.7,3.0,Declining,5.1
+STU0095,Computer Science,8,2022,59.2,5.12,3.0,Stable,7.2
+STU1373,Information Technology,3,2022,64.1,7.04,0.0,Stable,5.6
+STU0034,Computer Science,1,2025,53.4,5.77,1.0,Declining,6.2
+STU0800,civil,7,2022,100.0,9.61,0.0,Stable,6.2
+STU1150,Electronics,5,2024,100.0,9.25,0.0,Improving,8.8
+STU0449,Comp Science,4,2022,64.6,5.88,1.0,Stable,9.4
+STU0446,Electronics,7,2023,79.3,8.04,0.0,Stable,9.6
+STU0772,Computer Science,1,2022,98.8,,0.0,Improving,13.3
+STU0717,Mechanical,4,2023,100.0,9.75,1.0,Stable,11.2
+STU1151,Comp Science,4,2023,64.8,5.71,0.0,Improving,9.7
+STU1177,Mechanical,1,2023,97.2,8.71,0.0,Declining,7.8
+STU1351,Information Technology,4,2022,,6.37,0.0,Improving,5.8
+STU1062,Computer Science,7,2025,70.5,8.33,1.0,Stable,
+STU0078,Electronics,5,2024,57.6,7.51,1.0,Improving,3.3
+STU0085,Computer Science,3,2024,100.0,10.0,0.0,Stable,8.5
+STU1299,Electronics,4,2025,69.7,5.91,1.0,Stable,8.3
+STU0083,Information Technology,1,2023,68.4,,2.0,Stable,5.6
+STU0458,Civil,5,2023,77.2,7.49,2.0,Declining,9.3
+STU0971,Electronics,8,2023,77.2,8.65,0.0,Stable,6.2
+STU0677,Information Technology,5,2023,,5.82,3.0,Declining,10.7
+STU1485,Computer Science,6,2023,65.6,7.97,1.0,Declining,8.2
+STU1350,Computer Science,7,2025,57.9,6.24,3.0,Declining,7.0
+STU0437,mechanical,5,2023,100.0,9.46,0.0,Improving,8.2
+STU0771,Information Technology,7,2022,70.1,6.52,1.0,Stable,6.0
+STU0645,Information Technology,7,2025,87.4,9.24,0.0,Improving,5.7
+STU0909,Computer Science,4,2024,50.0,7.18,2.0,Stable,6.3
+STU1115,Civil,6,2024,71.7,6.11,1.0,Stable,8.4
+STU1229,Civil,5,2024,63.5,7.98,1.0,Stable,7.4
+STU1152,Mechanical,8,2024,72.3,7.09,0.0,Stable,5.7
+STU0405,Electronics,5,2022,80.6,10.0,3.0,Declining,4.2
+STU1342,Computer Science,6,2023,72.4,8.4,,Stable,6.0
+STU0986,Civil,3,2024,90.8,9.39,0.0,Improving,7.9
+STU1228,Computer Science,1,2024,96.5,8.65,2.0,Stable,9.9
+STU0105,Computer Science,8,2022,72.6,8.35,0.0,Stable,10.2
+STU0610,Computer Science,8,2025,78.1,8.2,0.0,Improving,8.1
+STU1271,Computer Science,1,2024,65.8,6.17,4.0,Declining,8.5
+STU0689,Computer Science,8,2022,76.6,6.29,3.0,Stable,9.2
+STU1001,Electronics,4,2022,110.9,8.65,1.0,Declining,
+STU0827,Mechanical,1,2023,87.6,8.81,0.0,Stable,8.4
+STU0984,Mechanical,3,2025,86.7,9.51,0.0,Stable,7.5
+STU0063,Information Technology,6,2022,100.0,10.0,0.0,Improving,6.9
+STU0282,Information Technology,5,2022,62.9,7.49,1.0,Declining,5.9
+STU0779,Civil,1,2024,85.6,8.98,0.0,Stable,7.1
+STU1044,Computer Science,3,2023,82.7,7.16,0.0,Stable,11.0
+STU0239,Information Technology,8,2023,96.2,8.41,0.0,Improving,10.4
+STU0224,Electronics,8,2022,68.1,6.78,1.0,Declining,7.5
+STU0146,Elec,6,2022,84.1,8.03,0.0,Improving,7.6
+STU1440,Information Technology,1,2022,77.5,6.53,2.0,Declining,8.0
+STU0374,Civil,6,2022,49.2,5.18,,,3.6
+STU1396,Civil,5,2022,64.8,7.62,4.0,Declining,7.3
+STU0119,Computer Science,3,2025,59.8,7.38,0.0,Improving,5.2
+STU1160,Information Technology,8,2024,98.3,9.68,0.0,Improving,7.6
+STU0251,Computer Science,4,2025,70.0,7.52,1.0,Stable,8.4
+STU1488,Electronics,5,2022,78.0,7.76,0.0,Stable,7.7
+STU1245,Computer Science,3,2025,60.7,6.17,0.0,Declining,2.9
+STU0943,Civil,3,2025,60.0,6.06,1.0,Stable,4.7
+STU0010,Information Technology,1,2025,86.2,7.22,0.0,Improving,8.3
+STU0450,Mechanical,3,2024,71.9,6.68,,Improving,6.6
+STU0932,Computer Science,7,2024,73.0,7.32,1.0,Stable,9.2
+STU0709,Computer Science,7,2024,77.2,6.87,0.0,Declining,12.1
+STU0256,Civil,6,2024,69.8,7.34,4.0,Declining,5.4
+STU0594,Mechanical,7,2025,100.0,7.87,2.0,Declining,11.6
+STU0390,Mechanical,1,2025,65.6,7.53,1.0,Stable,7.4
+STU1010,Mechanical,4,2022,89.1,9.61,,Declining,11.0
+STU1237,Computer Sci,3,2023,84.4,8.6,3.0,Declining,14.8
+STU0558,Information Technology,8,2022,69.9,6.23,1.0,Stable,5.6
+STU1326,Civil,1,2023,68.8,6.92,2.0,Stable,7.0
+STU0887,mechanical,1,2023,71.8,5.72,0.0,Declining,4.5
+STU0461,Computer Science,5,2024,100.0,8.63,1.0,Improving,7.2
+STU0724,Electronics,4,2025,75.6,7.22,0.0,Improving,5.6
+STU1423,Information Technology,3,2025,77.3,9.26,2.0,Improving,7.3
+STU0145,Electronics,7,2025,84.6,8.4,1.0,Declining,12.2
+STU0502,Computer Science,4,2022,79.2,5.86,0.0,Improving,7.9
+STU1129,Electronics,7,2024,75.4,9.13,0.0,Stable,8.9
+STU0740,Information Technology,7,2025,,7.93,0.0,Improving,8.5
+STU1426,Mechanical,8,2024,99.8,7.29,0.0,Improving,10.8
+STU0869,MECHANICAL,6,2022,53.2,6.16,5.0,Stable,4.2
+STU0732,Information Technology,6,2025,65.4,5.34,4.0,Declining,8.5
+STU0540,Electronics,1,2023,90.8,8.23,2.0,Declining,9.2
+STU0178,Computer Science,3,2025,65.9,6.71,3.0,Declining,5.6
+STU1490,Civil,2,2024,66.1,7.17,3.0,Declining,6.2
+STU0698,Mechanical,2,2024,73.2,7.77,3.0,Declining,8.6
+STU1164,Electronics,3,2023,86.3,5.0,0.0,Improving,8.4
+STU1076,Computer Science,7,2023,88.7,8.56,0.0,Improving,8.9
+STU0924,Information Technology,4,2023,74.9,8.26,0.0,Stable,8.0
+STU0950,Computer Science,2,2022,82.8,7.4,0.0,Stable,9.3
+STU0300,Computer Science,4,2024,82.1,7.83,2.0,Improving,10.5
+STU0008,Civil,4,2024,74.1,7.49,0.0,Improving,11.7
+STU0911,Electronics,1,2025,80.9,6.46,1.0,,8.6
+STU0668,CS,3,2025,62.4,7.72,3.0,Declining,4.2
+STU1389,CIVIL,5,2024,70.5,7.96,1.0,Declining,8.2
+STU0358,Information Technology,1,2025,57.3,6.52,1.0,Declining,5.9
+STU0784,Civil,3,2022,82.3,8.88,3.0,Declining,7.5
+STU0736,Mechanical,4,2023,90.5,8.48,0.0,Improving,8.1
+STU0330,Mechanical,3,2023,82.0,8.83,3.0,Declining,
+STU1352,Computer Science,8,2023,80.0,8.92,2.0,Stable,9.4
+STU1183,Information Technology,4,2022,60.7,4.59,3.0,Declining,
+STU1150,Electronics,5,2024,100.0,9.25,0.0,Improving,8.8
+STU0259,Mechanical,3,2024,94.8,7.95,1.0,Stable,10.9
+STU0942,Information Technology,1,2025,81.1,8.22,1.0,Declining,7.9
+STU1210,Information Technology,5,2022,85.1,8.35,0.0,Declining,6.2
+STU0373,Mechanical,5,2025,78.4,9.63,0.0,Stable,5.0
+STU1135,Civil,2,2022,87.0,9.33,0.0,Stable,10.7
+STU1058,Electronics,6,2024,89.6,7.32,0.0,Improving,11.3
+STU0143,Electronics,1,2022,38.9,5.61,3.0,Declining,5.8
+STU0526,Electronics,3,2023,74.7,9.12,0.0,Stable,10.2
+STU1171,Civil,5,2023,73.0,8.11,0.0,Stable,11.9
+STU0233,Electronics,7,2022,88.4,8.15,0.0,Stable,9.2
+STU1341,Computer Sci,5,2023,,8.46,0.0,Improving,8.7
+STU1465,Information Technology,5,2023,100.0,8.01,0.0,Improving,9.4
+STU0441,CS,1,2025,38.5,6.77,4.0,Declining,5.1
+STU0532,Mechanical,2,2024,56.9,6.32,3.0,Declining,4.6
+STU1238,Computer Science,4,2022,79.2,7.9,0.0,Declining,9.7
+STU0227,Mechanical,3,2023,85.4,9.1,1.0,Stable,7.1
+STU1199,Electronics,3,2022,72.6,7.66,1.0,Declining,11.3
+STU0229,Civil,6,2023,45.7,7.35,1.0,Stable,4.0
+STU1318,Mechanical,4,2024,76.5,8.71,0.0,Improving,7.6
+STU1336,Computer Science,4,2022,59.2,7.8,3.0,Declining,3.2
+STU0213,Civil,7,2022,88.4,-0.87,0.0,Improving,
+STU0886,MECHANICAL,6,2025,65.1,5.55,2.0,Improving,6.1
+STU0080,Electronics,4,2024,68.1,6.77,2.0,Stable,5.6
+STU0149,Mechanical,5,2025,88.2,8.52,1.0,Stable,11.7
+STU0815,Mechanical,3,2024,91.0,6.68,0.0,Improving,10.8
+STU1480,Electronics,1,2024,95.2,8.37,0.0,Declining,12.5
+STU0965,Civil,2,2023,96.0,8.97,0.0,Improving,7.4
+STU0672,Computer Science,5,2025,58.6,6.7,2.0,Declining,7.6
+STU1190,Electronics,8,2023,93.9,7.04,3.0,Declining,6.2
+STU0556,Information Technology,2,2023,86.7,8.04,0.0,Stable,10.3
+STU1408,Mechanical,4,2022,100.0,7.4,2.0,Improving,10.6
+STU0134,Information Technology,7,2023,91.8,7.04,0.0,Stable,7.7
+STU1218,Mechanical,8,2024,86.6,8.82,0.0,Improving,9.5
+STU0934,Civil,5,2024,96.0,8.53,0.0,Improving,7.9
+STU1311,Computer Science,3,2025,81.8,,0.0,Declining,6.5
+STU0824,Civil,4,2024,72.1,7.83,0.0,Improving,5.5
+STU0409,Information Technology,3,2025,91.8,7.83,2.0,Stable,6.5
+STU0369,electronics,6,2025,69.8,7.43,2.0,Stable,1.3
+STU0508,Electronics,8,2024,99.2,9.16,0.0,Declining,8.2
+STU1217,Civil,5,2025,100.0,9.59,0.0,Declining,10.4
+STU0505,Civil,2,2024,88.6,7.71,0.0,Improving,7.4
+STU1371,Electronics,7,2024,100.0,8.78,0.0,Stable,10.6
+STU0348,Computer Science,2,2023,59.4,7.33,1.0,Stable,5.8
+STU0387,Mechanical,2,2024,73.0,7.4,2.0,Stable,6.1
+STU0001,Electronics,8,2024,74.6,6.49,0.0,Stable,6.9
+STU1027,Computer Science,4,2023,76.5,7.37,1.0,Stable,5.8
+STU0361,Electronics,8,2025,74.5,7.98,1.0,Stable,11.5
+STU0895,Computer Science,4,2024,76.6,6.41,3.0,Improving,7.9
+STU0829,Mechanical,3,2023,82.9,6.03,0.0,Stable,6.6
+STU1457,Civil,5,2022,82.8,8.58,0.0,Improving,7.9
+STU0476,Information Technology,4,2025,71.1,8.69,1.0,Declining,6.2
+STU1319,Civil,6,2024,100.0,8.54,0.0,Improving,11.0
+STU0058,Mechanical,3,2023,80.3,8.64,0.0,Improving,6.1
+STU0638,Information Technology,5,2025,75.7,6.45,0.0,Stable,5.7
+STU1345,Mechanical,8,2023,100.0,,0.0,Improving,11.4
+STU1080,Mechanical,1,2023,49.8,5.79,1.0,Stable,1.5
+STU1006,Information Technology,8,2022,104.8,8.86,2.0,Stable,8.4
+STU0173,Mechanical,6,2024,69.0,7.32,2.0,Declining,5.6
+STU0451,Civil,5,2025,63.1,6.97,,Stable,2.4
+STU0126,Electronics,2,2023,86.8,8.73,0.0,Stable,6.5
+STU0039,CS,3,2025,59.1,6.7,0.0,Stable,2.9
+STU0531,Mechanical,1,2023,72.4,7.73,0.0,Improving,2.5
+STU0858,Electronics,6,2024,100.0,9.54,0.0,Stable,10.6
+STU0714,Civil,5,2022,106.0,6.95,0.0,Stable,5.6
+STU0091,Civil,7,2022,100.0,8.48,0.0,Improving,12.4
+STU1494,Mechanical,8,2022,71.8,7.39,0.0,Improving,8.8
+STU0182,Civil,4,2022,99.0,9.15,0.0,Improving,5.9
+STU0876,Electronics,5,2025,87.0,7.26,2.0,Stable,9.4
+STU1041,Civil,6,2024,59.4,6.25,2.0,Declining,4.2
+STU0787,mechanical,8,2024,69.5,6.29,2.0,Declining,11.9
+STU0415,Computer Science,2,2025,85.1,8.97,0.0,Stable,10.7
+STU0252,Electronics,8,2023,52.4,7.8,4.0,Stable,5.0
+STU0070,Electronics,6,2023,100.0,8.15,0.0,Improving,9.6
+STU0804,Information Technology,2,2022,97.4,6.63,0.0,Improving,14.1
+STU0132,Information Technology,6,2024,58.0,6.66,,Declining,4.8
+STU0301,Information Technology,2,2023,86.3,8.09,1.0,Improving,8.9
+STU1376,Mechanical,4,2023,74.8,8.17,1.0,Improving,10.0
+STU0327,Civil,8,2024,58.6,5.92,,Stable,4.7
+STU0584,Computer Science,5,2022,97.9,9.45,0.0,Improving,8.2
+STU1145,Information Technology,3,2022,74.4,6.2,0.0,Stable,5.2
+STU0500,Computer Science,6,2025,,7.91,0.0,Stable,10.0
+STU0342,Electronics,4,2022,81.6,7.66,0.0,Improving,9.6
+STU0833,Mechanical,3,2022,,7.99,0.0,Improving,11.1
+STU0365,Electronics,7,2023,68.9,8.5,4.0,Declining,4.9
+STU0496,Computer Science,6,2022,60.9,5.88,3.0,Declining,4.4
+STU1436,Information Technology,4,2024,54.5,6.62,0.0,Improving,6.7
+STU0339,Information Technology,2,2024,88.2,7.71,0.0,,9.2
+STU0422,Elec,5,2022,91.8,8.29,0.0,Improving,10.3
+STU0165,Civil,7,2023,52.1,5.98,1.0,Improving,7.4
+STU0029,Electronics,5,2023,74.7,6.67,2.0,Stable,2.7
+STU0517,Mechanical,5,2024,,8.93,0.0,Improving,8.3
+STU0194,Mechanical,8,2024,91.3,9.29,0.0,Improving,12.2
+STU1025,Computer Science,4,2022,90.7,9.26,0.0,Improving,8.2
+STU1403,Information Technology,1,2025,97.2,8.99,0.0,Declining,7.8
+STU0946,Civil,6,2023,73.0,9.1,0.0,Stable,7.6
+STU1402,Information Technology,8,2025,84.4,10.0,0.0,Stable,9.5
+STU0170,Electronics,1,2025,84.9,7.55,0.0,Improving,6.8
+STU0168,Civil,3,2024,63.3,5.62,2.0,Improving,2.1
+STU0653,Civil,3,2023,70.3,6.09,3.0,Declining,4.1
+STU0174,Electronics,1,2022,99.3,10.0,0.0,Improving,11.3
+STU0519,Information Technology,6,2025,100.0,8.89,0.0,Improving,9.4
+STU1250,Electronics,6,2025,100.0,7.32,0.0,Improving,7.0
+STU1236,Information Technology,4,2025,72.9,9.92,1.0,Stable,6.5
+STU0913,civil,5,2022,70.4,7.17,0.0,Improving,8.3
+STU0492,Information Technology,3,2022,44.9,7.05,1.0,Declining,3.5
+STU0954,Information Technology,6,2023,88.4,8.32,0.0,Improving,6.2
+STU0074,Mechanical,5,2023,86.8,8.06,0.0,Improving,10.4
+STU1291,Mechanical,6,2022,106.9,7.8,2.0,Improving,7.4
+STU0588,Computer Science,5,2023,93.4,7.63,0.0,Improving,11.6
+STU0751,Electronics,2,2022,65.4,6.4,3.0,Stable,7.0
+STU0658,Mechanical,3,2022,54.8,5.21,3.0,Declining,8.8
+STU0843,Computer Science,5,2023,95.0,7.15,0.0,Improving,9.8
+STU0235,Computer Science,8,2023,93.9,8.11,0.0,Improving,12.7
+STU0733,Electronics,6,2023,68.9,6.19,4.0,Declining,8.0
+STU0215,Civil,6,2022,73.6,7.21,0.0,Declining,5.8
+STU0163,Information Technology,6,2024,88.0,6.2,0.0,Stable,8.7
+STU0133,Electronics,6,2025,75.2,8.94,0.0,Improving,5.9
+STU1456,IT,7,2024,97.7,8.64,0.0,Improving,9.5
+STU1264,Computer Science,8,2024,67.1,7.99,3.0,Declining,6.0
+STU0935,Information Technology,2,2022,57.4,7.84,1.0,Stable,7.0
+STU0109,Civil,1,2023,68.3,6.47,0.0,Improving,8.8
+STU0569,Electronics,5,2023,83.0,7.5,2.0,Improving,8.7
+STU0891,Mechanical,1,2025,85.3,8.81,0.0,Improving,8.7
+STU0948,Electronics,2,2024,70.1,7.42,2.0,Stable,7.4
+STU1042,mechanical,8,2022,79.6,6.84,0.0,Improving,5.1
+STU0885,Computer Science,6,2025,49.4,5.0,1.0,Declining,4.6
+STU1303,Civil,7,2025,58.6,7.87,2.0,Stable,6.0
+STU0851,Civil,2,2023,83.3,8.85,1.0,Declining,8.5
+STU0735,Computer Science,6,2024,69.8,5.15,0.0,Improving,8.8
+STU0718,Mechanical,4,2022,73.9,7.63,0.0,Stable,4.3
+STU0455,Electronics,2,2022,78.6,8.29,1.0,Declining,8.7
+STU0265,Electronics,3,2025,63.5,7.11,1.0,Improving,6.5
+STU0076,Mechanical,7,2024,84.9,8.94,1.0,Improving,5.1
+STU0445,Information Technology,4,2024,62.8,7.52,,Improving,5.9
+STU0396,Information Technology,3,2025,86.2,6.77,0.0,Stable,
+STU0177,Civil,6,2025,79.3,8.01,2.0,Stable,5.9
+STU1043,Civil,5,2024,97.9,9.12,0.0,Improving,10.8
+STU1349,Computer Science,7,2023,80.6,7.18,1.0,Stable,10.9
+STU1450,Civil,6,2023,78.8,7.52,1.0,Stable,7.6
+STU1066,Electronics,7,2022,85.8,7.57,0.0,Improving,8.9
+STU0596,Information Technology,5,2023,100.0,8.46,0.0,Improving,10.5
+STU0062,Electronics,7,2025,80.8,7.7,0.0,Improving,11.9
+STU0873,Computer Science,4,2023,61.0,7.54,3.0,Declining,3.5
+STU1437,Information Technology,1,2022,83.2,8.33,3.0,Declining,5.6
+STU1448,Information Technology,7,2023,95.9,7.41,0.0,Improving,14.1
+STU0279,Civil,4,2025,76.7,7.21,3.0,Declining,9.1
+STU0037,Civil,7,2024,78.3,8.14,0.0,Improving,9.9
+STU0663,Computer Science,4,2022,77.1,7.56,2.0,Improving,6.7
+STU1393,Information Technology,7,2023,85.5,7.4,0.0,Improving,10.5
+STU1117,Electronics,2,2024,61.9,5.67,1.0,Improving,3.4
+STU0978,MECHANICAL,7,2023,84.3,5.89,1.0,Declining,11.2
+STU0739,Electronics,1,2022,96.3,9.18,,Stable,9.1
+STU0192,Information Technology,1,2022,75.3,5.55,2.0,Improving,5.9
+STU0920,Electronics,8,2024,84.7,7.44,3.0,Declining,8.4
+STU0457,Information Technology,7,2024,73.5,5.87,2.0,Improving,9.6
+STU0676,Information Technology,6,2025,69.6,,3.0,,12.9
+STU0761,Civil,2,2023,64.0,4.47,2.0,Improving,5.6
+STU1394,Civil,1,2024,70.0,7.06,2.0,Stable,6.2
+STU0729,Civil,3,2022,81.3,7.22,1.0,Stable,7.7
+STU0413,Information Technology,6,2024,100.0,10.0,0.0,Improving,10.8
+STU0826,information technology,5,2022,71.0,7.48,0.0,Improving,8.6
+STU0617,Electronics,3,2023,86.4,7.58,0.0,Improving,8.6
+STU0115,Computer Science,6,2025,67.7,7.92,1.0,Stable,7.4
+STU0418,Mechanical,4,2023,64.2,4.01,1.0,Stable,5.9
+STU1470,Civil,7,2025,58.6,8.84,3.0,Declining,5.3
+STU0970,information technology,6,2024,82.6,9.15,0.0,Stable,11.4
+STU0605,Civil,4,2024,100.0,6.61,1.0,Stable,10.1
+ STU1476 ,Electronics,4,2022,87.1,7.52,0.0,Improving,5.6
+STU0090,Civil,6,2025,85.1,8.41,0.0,Stable,5.7
+STU0849,Computer Science,6,2022,96.3,8.2,0.0,Stable,9.9
+STU1179,Information Technology,1,2025,59.9,,2.0,Declining,6.8
+STU1475,Mechanical,4,2023,94.0,6.82,0.0,Stable,10.7
+STU0754,Civil,4,2025,,,1.0,Stable,12.3
+STU0499,Computer Science,8,2023,87.0,9.85,0.0,Improving,9.3
+STU0012,Civil,6,2025,94.7,,0.0,Improving,9.7
+STU0397,Information Technology,5,2022,86.2,7.19,3.0,Declining,11.0
+STU0285,Computer Science,7,2023,67.2,6.47,2.0,Improving,8.3
+STU1067,Electronics,3,2025,61.4,8.16,2.0,Stable,5.4
+STU0691,Information Technology,4,2022,76.8,6.98,0.0,Stable,1.2
+STU1384,Civil,3,2024,72.6,6.51,0.0,Improving,6.7
+STU1445,Mechanical,3,2025,81.5,7.58,1.0,Declining,9.4
+STU0690,Civil,2,2023,51.4,4.48,4.0,Declining,4.6
+STU0852,Information Technology,3,2025,69.4,7.58,2.0,Improving,6.9
+STU0160,Civil,6,2024,61.7,7.17,4.0,Declining,4.1
+STU0896,Information Technology,3,2024,,9.93,0.0,Improving,6.9
+STU1323,Information Technology,8,2024,58.7,7.5,1.0,Stable,6.0
+STU0258,Information Technology,7,2024,85.5,6.65,3.0,Declining,9.1
+STU0336,Mechanical,2,2023,65.5,6.1,5.0,Declining,8.9
+STU1449,Computer Science,7,2024,92.4,9.29,0.0,Stable,10.2
+STU1040,Mechanical,7,2022,53.5,8.37,2.0,Improving,4.5
+STU0516,Civil,6,2024,84.9,8.1,2.0,Declining,9.6
+STU1016,Computer Science,5,2024,77.4,7.11,0.0,Improving,7.1
+STU0769,Information Technology,2,2025,36.8,4.6,1.0,Stable,3.0
+STU1374,Civil,7,2024,54.0,8.63,1.0,Declining,2.1
+STU0762,Civil,1,2022,68.0,9.12,3.0,Stable,4.7
+STU1134,Electronics,2,2024,50.1,6.11,2.0,Stable,7.4
+STU0522,Computer Science,1,2023,92.1,8.87,0.0,Improving,10.1
+STU0023,Electronics,5,2025,59.4,6.44,0.0,Stable,6.4
+STU0357,Electronics,7,2025,66.2,7.32,4.0,Declining,4.8
+STU1310,Information Technology,8,2022,94.0,8.14,0.0,Stable,11.8
+STU0341,Computer Science,2,2024,69.3,7.07,3.0,Declining,6.5
+STU0432,Computer Science,4,2025,69.5,9.99,2.0,Improving,9.3
+STU0474,Information Technology,4,2023,77.0,7.24,0.0,Declining,9.2
+STU0218,Electronics,7,2025,72.6,5.94,3.0,Declining,7.2
+STU0912,Civil,6,2025,,8.85,0.0,Declining,10.8
+STU1241,Computer Science,7,2024,79.2,8.62,3.0,Declining,7.0
+STU1012,Civil,3,2022,97.8,8.13,0.0,Declining,8.9
+STU0211,Civil,2,2024,61.6,5.52,3.0,Declining,
+STU0094,Civil,3,2025,78.0,7.72,3.0,Stable,10.5
+STU1009,Electronics,5,2022,75.9,7.91,0.0,Improving,4.0
+STU1071,Information Technology,1,2025,60.0,5.81,2.0,Stable,5.2
+STU1093,Mechanical,4,2025,91.5,9.45,0.0,Improving,5.9
+STU0697,Electronics,4,2025,100.0,9.49,0.0,Improving,11.1
+STU1383,Mechanical,8,2023,75.3,-0.39,2.0,Declining,4.0
+STU0997,Computer Science,1,2024,73.5,8.85,0.0,Improving,8.2
+STU0154,Computer Science,8,2024,76.8,,2.0,Declining,7.7
+STU1100,Mechanical,7,2025,100.0,8.96,0.0,Declining,9.6
+STU1451,Electronics,8,2025,81.4,7.92,0.0,Improving,11.0
+STU0313,Mechanical,6,2025,94.9,,0.0,Stable,7.9
+STU0790,Computer Science,1,2024,89.3,9.2,,Improving,11.2
+STU0581,Electronics,6,2022,94.2,9.75,0.0,Improving,11.3
+STU0704,Electronics,4,2022,49.1,5.61,3.0,Declining,5.1
+STU1297,Computer Science,8,2023,100.0,9.83,1.0,Declining,11.3
+STU0488,Civil,7,2024,60.2,-1.44,2.0,Declining,7.5
+STU0560,Electronics,7,2025,48.6,6.41,1.0,Stable,5.0
+STU1120,Mechanical,5,2024,80.8,8.81,1.0,Declining,6.5
+STU0802,Civil,2,2025,88.0,6.33,,Declining,13.2
+STU0513,Computer Science,8,2024,71.4,6.55,0.0,Improving,6.8
+STU0634,Civil,5,2024,74.9,7.44,0.0,Improving,7.5
+STU1142,Information Technology,8,2022,67.3,8.32,3.0,Declining,6.2
+STU1379,Computer Science,3,2025,85.7,7.48,0.0,Stable,8.7
+STU0791,Civil,6,2024,71.8,7.19,2.0,Declining,6.5
+STU0117,Mechanical,4,2024,48.4,3.89,3.0,Declining,3.0
+STU0741,Mechanical,2,2022,67.2,7.26,4.0,,6.7
+ STU1082 ,Civil,4,2023,49.8,7.26,1.0,Improving,5.8
+STU0831,Electronics,8,2023,79.3,6.88,0.0,Stable,3.9
+STU0120,Mechanical,5,2022,89.0,8.22,0.0,,8.8
+STU0657,Computer Science,7,2025,75.3,6.16,3.0,Declining,8.8
+STU1467,Information Technology,5,2025,,9.08,1.0,Declining,7.7
+STU0636,Computer Science,1,2023,100.0,9.21,1.0,Declining,11.8
+STU0370,IT,2,2024,90.9,6.37,0.0,Stable,10.2
+STU0269,Information Technology,7,2023,78.5,7.65,2.0,Stable,5.0
+STU0656,Computer Science,5,2023,66.8,6.48,1.0,Stable,6.6
+STU0936,Computer Science,1,2022,67.4,7.88,2.0,Declining,6.7
+STU0823,Mechanical,6,2023,53.4,5.86,5.0,Stable,5.8
+STU0867,Electronics,2,2024,89.0,7.49,0.0,Improving,8.8
+STU0047,Mechanical,5,2025,85.5,8.5,0.0,Stable,7.7
+STU1329,Information Technology,3,2023,88.4,10.0,0.0,Stable,9.8
+STU0992,CIVIL,2,2022,86.6,8.68,0.0,Improving,8.6
+STU0877,Computer Science,5,2024,79.1,7.16,0.0,,9.0
+STU0774,Mechanical,4,2022,83.7,8.61,0.0,Stable,8.2
+STU0157,Electronics,8,2025,67.9,6.29,1.0,Declining,3.0
+STU0005,Information Technology,3,2022,100.0,7.63,0.0,Improving,7.9
+STU1004,Electronics,1,2023,100.0,8.89,0.0,Improving,
+STU1340,Information Technology,5,2022,100.0,7.61,0.0,Improving,
+STU0264,Computer Science,6,2022,81.9,7.72,1.0,,6.7
+STU1261,Info Tech,7,2025,73.8,6.09,0.0,Improving,9.1
+STU1411,Civil,8,2022,75.0,6.47,0.0,Improving,7.3
+STU0444,Civil,8,2024,91.9,8.27,0.0,Stable,11.9
+STU1003,Electronics,6,2025,93.7,8.61,0.0,Improving,9.1
+STU1078,Information Technology,8,2024,68.7,7.65,4.0,Declining,7.9
+STU0838,Mechanical,5,2023,100.0,9.3,0.0,Improving,9.5
+STU1381,Computer Science,5,2022,90.2,9.13,0.0,Stable,11.1
+STU0305,civil,5,2022,93.7,10.0,0.0,Improving,9.5
+STU1209,Mechanical,3,2025,94.6,8.61,0.0,Stable,9.2
+STU0314,Computer Science,5,2025,73.0,7.55,0.0,Improving,7.7
+STU0150,Electronics,2,2024,95.9,8.77,0.0,Declining,5.9
+STU1149,Mechanical,7,2024,88.0,7.28,0.0,Stable,9.8
+STU0575,Information Technology,5,2023,62.7,7.16,3.0,Declining,
+STU0051,Electronics,5,2023,65.8,7.68,2.0,Stable,7.8
+STU1206,Information Technology,7,2025,64.4,6.68,2.0,Declining,8.3
+STU0727,Electronics,2,2023,100.0,10.0,0.0,Stable,13.0
+STU0834,Computer Science,6,2024,53.5,7.71,2.0,Declining,8.6
+STU1116,Electronics,7,2024,47.6,5.81,5.0,Declining,7.0
+STU1167,Information Technology,4,2024,45.7,4.05,4.0,,3.9
+STU0471,mechanical,1,2025,58.2,7.35,3.0,Declining,4.6
+STU0972,Information Technology,2,2023,96.3,9.7,0.0,Stable,5.3
+STU0654,Information Technology,3,2025,75.1,8.43,0.0,Improving,6.6
+STU0400,Mechanical,1,2023,82.9,,0.0,Improving,7.8
+STU0512,Electronics,7,2023,88.5,10.0,0.0,Improving,7.8
+STU0321,Mechanical,4,2025,76.0,8.81,0.0,Improving,8.8
+STU0020,Electronics,6,2024,69.4,7.43,4.0,Declining,5.9
+STU0685,Civil,7,2024,80.8,7.42,0.0,Improving,7.1
+STU0036,Information Technology,7,2024,100.0,9.55,0.0,Improving,8.4
+STU0903,IT,8,2022,71.2,7.62,1.0,Stable,10.3
+STU0828,Electronics,4,2023,75.1,8.19,3.0,Declining,9.2
+STU1386,Information Technology,6,2022,68.6,6.66,4.0,Declining,6.2
+STU0408,Electronics,7,2022,73.3,8.18,2.0,Declining,7.1
+ STU0921 ,Civil,1,2025,72.9,7.59,0.0,Stable,7.0
+STU0538,Civil,3,2023,93.5,7.86,0.0,Improving,9.5
+STU0759,Information Technology,4,2022,77.5,8.65,1.0,Improving,14.5
+STU1063,Electronics,8,2025,92.6,9.42,1.0,Declining,10.3
+STU0246,Civil,7,2024,57.7,5.67,1.0,Stable,2.4
+STU1128,Information Technology,8,2025,,,0.0,Improving,10.8
+STU0785,information technology,4,2024,77.3,8.13,1.0,Stable,5.5
+STU0490,Mechanical,8,2024,75.2,7.76,2.0,Declining,4.1
+STU0155,Civil,5,2022,83.2,8.99,0.0,Stable,10.2
+STU0962,Mechanical,4,2023,86.3,10.0,0.0,Stable,9.5
+STU0854,Mechanical,4,2024,82.1,8.31,0.0,Stable,5.5
+STU0626,Mechanical,5,2025,84.9,8.99,0.0,Improving,8.2
+STU0686,Computer Science,4,2023,100.0,7.63,1.0,,12.2
+STU0570,CIVIL,7,2022,82.7,8.32,0.0,Stable,6.3
+STU1468,Mechanical,6,2023,59.7,5.51,2.0,Stable,5.3
+STU0018,Information Technology,2,2025,86.9,8.96,0.0,Improving,7.1
+STU0128,Electronics,4,2023,54.5,6.44,3.0,Declining,8.4
+STU0712,Information Technology,1,2025,,8.52,3.0,Declining,10.2
+STU0928,Electronics,5,2024,81.4,7.28,0.0,Improving,8.3
+STU0981,Civil,1,2022,93.6,8.34,0.0,Stable,9.2
+STU0166,Mechanical,6,2025,67.8,6.74,1.0,Declining,6.1
+STU0191,Mechanical,4,2025,87.1,8.26,0.0,Improving,9.8
+STU1140,Electronics,5,2025,80.2,8.11,0.0,Stable,6.7
+STU0993,Electronics,8,2022,84.8,8.77,0.0,Stable,12.3
+ STU1125 ,Information Technology,2,2023,78.2,8.21,3.0,Declining,7.8
+STU1289,Civil,8,2023,84.5,8.72,0.0,Improving,10.8
+STU0607,electronics,1,2022,62.1,6.72,1.0,Declining,8.5
+STU0181,Computer Science,1,2022,84.3,7.89,0.0,Improving,9.9
+STU0302,Information Technology,3,2024,83.1,8.53,1.0,Stable,6.7
+STU0497,Civil,4,2023,75.0,9.06,2.0,Declining,7.9
+STU1330,Computer Science,2,2024,60.9,7.69,4.0,Declining,6.6
+STU1294,Mechanical,8,2025,100.0,8.18,0.0,Declining,7.7
+STU1274,Electronics,4,2024,80.1,8.44,0.0,Stable,9.2
+STU0518,Information Technology,7,2023,82.7,9.23,0.0,Stable,11.3
+STU1070,Computer Science,5,2024,98.0,9.54,0.0,Improving,12.1
+STU0477,Electronics,5,2025,77.4,,0.0,Declining,9.8
+STU0158,Information Technology,5,2023,78.5,6.95,0.0,Improving,11.9
+STU1196,Computer Science,7,2024,84.7,6.17,0.0,Stable,9.1
+STU0017,Electronics,3,2024,88.1,8.05,0.0,Stable,9.2
+STU1073,Civil,6,2022,91.4,7.04,1.0,,11.0
+STU1303,Civil,7,2025,58.6,7.87,2.0,Stable,6.0
+STU0547,Information Technology,8,2024,87.0,7.95,0.0,Stable,5.6
+STU0659,Computer Science,7,2024,70.6,5.22,3.0,Declining,7.6
+STU1263,Mechanical,8,2024,85.6,7.45,0.0,Improving,9.8
+STU1020,Electronics,5,2023,84.6,5.16,1.0,Stable,9.7
+STU1458,Information Technology,4,2022,104.5,6.3,0.0,Improving,8.5
+STU0960,Computer Science,4,2022,100.0,8.78,0.0,Declining,10.7
+STU1451,Electronics,8,2025,81.4,7.92,0.0,Improving,11.0
+STU0284,Electronics,5,2025,79.0,8.12,2.0,Improving,8.8
+STU0798,Mechanical,8,2025,,5.86,2.0,Stable,6.9
+STU0226,Computer Science,5,2023,84.3,7.35,2.0,Stable,
+STU0027,Civil,3,2024,80.6,6.85,0.0,Stable,11.6
+STU0438,Civil,4,2022,83.8,8.23,0.0,Improving,8.7
+STU0982,Electronics,7,2022,86.8,9.5,0.0,Improving,11.8
+STU0230,Electronics,1,2023,94.5,9.5,0.0,Improving,7.0
+STU0038,Information Technology,8,2022,81.5,7.06,3.0,Declining,7.3
+STU0750,Civil,1,2024,73.4,9.5,2.0,Improving,5.4
+STU1046,Civil,2,2025,84.8,7.81,0.0,Stable,9.9
+STU0470,Electronics,1,2025,68.6,6.89,3.0,Declining,6.1
+STU1317,Electronics,6,2022,85.8,9.68,0.0,Stable,6.8
+STU0256,Civil,6,2024,69.8,7.34,4.0,Declining,5.4
+STU0688,Computer Science,8,2023,62.9,7.48,2.0,Stable,
+STU1420,Mechanical,6,2023,100.0,10.0,0.0,Stable,11.4
+STU0640,Information Technology,8,2025,71.2,8.31,0.0,Stable,7.7
+STU1062,Computer Science,7,2025,70.5,8.33,1.0,Stable,5.6
+STU1219,IT,1,2022,99.0,,1.0,Stable,12.7
+STU1159,Mech,4,2024,,4.54,2.0,Stable,6.9
+STU1288,Mechanical,3,2022,76.5,7.22,0.0,Improving,9.9
+STU1405,Computer Science,5,2022,85.5,8.07,0.0,Improving,6.3
+STU0801,Civil,5,2024,75.4,7.78,3.0,Stable,7.4
+STU0161,Civil,8,2024,88.2,6.46,1.0,Stable,
+STU0957,Information Technology,6,2024,81.0,8.67,0.0,Improving,9.4
+STU1187,Computer Science,2,2024,81.2,6.48,0.0,Improving,8.5
+STU0822,Electronics,5,2023,74.6,7.2,0.0,Improving,12.9
+STU1309,Electronics,1,2025,51.4,6.53,4.0,Declining,7.6
+STU0878,Mechanical,5,2022,74.8,7.03,0.0,Stable,8.2
+STU0914,Computer Science,4,2024,78.5,7.16,1.0,Declining,7.5
+STU0153,computer science,3,2023,70.4,7.89,2.0,Improving,6.2
+STU1415,Computer Science,3,2025,100.0,7.76,0.0,Stable,9.2
+STU0510,Computer Science,5,2024,65.1,5.81,4.0,Declining,10.7
+STU1136,mechanical,5,2024,82.5,7.69,1.0,Declining,8.7
+STU1251,Electronics,8,2025,70.1,7.4,1.0,,5.5
+STU1296,Mechanical,8,2023,72.0,8.64,0.0,Improving,7.6
+STU0104,Mechanical,3,2024,74.3,7.35,0.0,Improving,7.2
+STU0587,Electronics,3,2024,100.0,8.01,0.0,Stable,9.8
+STU1367,Comp Science,7,2025,72.6,7.64,0.0,Improving,7.7
+STU1144,Mechanical,1,2022,,9.69,0.0,Stable,12.2
+STU0054,Information Technology,7,2025,85.0,8.44,2.0,Stable,11.2
+STU0152,Computer Science,8,2023,82.8,9.27,0.0,Improving,8.5
+STU0404,Information Technology,4,2024,65.2,6.83,4.0,Stable,4.5
+STU1498,Information Technology,6,2023,83.9,6.63,2.0,Stable,7.2
+STU0208,Civil,2,2022,100.0,9.18,0.0,Improving,7.2
+STU1459,Computer Science,4,2023,58.9,6.74,2.0,Declining,6.6
+STU1123,information technology,7,2024,80.8,6.48,0.0,Declining,8.5
+STU1357,Civil,3,2022,78.8,6.72,2.0,Improving,7.2
+STU0009,Civil,6,2023,78.3,9.6,0.0,Improving,2.3
+STU1015,Civil,1,2024,,6.05,0.0,Stable,4.9
+STU1385,Information Technology,7,2023,95.7,8.32,1.0,Improving,10.5
+STU1061,Computer Science,5,2022,56.0,,3.0,Declining,2.9
+STU0453,Information Technology,2,2023,90.9,7.26,2.0,Stable,6.2
+STU0254,Civil,6,2024,96.5,9.79,0.0,Stable,10.9
+STU0897,Computer Science,8,2025,58.7,5.93,3.0,Declining,
+STU1347,Mechanical,8,2024,80.4,7.7,0.0,Improving,6.9
+STU0881,Electronics,1,2022,81.9,7.11,0.0,Stable,7.4
+STU1455,Computer Science,4,2022,73.5,6.23,3.0,Stable,5.4
+STU0624,Electronics,1,2022,90.8,8.37,1.0,Declining,6.5
+STU0346,MECHANICAL,3,2024,89.1,10.0,1.0,Stable,7.3
+STU1325,Mechanical,6,2023,80.2,8.4,0.0,Stable,8.6
+STU0263,Information Technology,2,2024,71.8,5.78,1.0,Declining,8.8
+STU0151,Computer Science,8,2025,,5.1,0.0,Stable,
+STU0473,Mechanical,6,2024,66.0,8.1,2.0,Declining,5.0
+STU0641,Electronics,5,2022,80.9,7.02,0.0,Improving,7.5
+STU0840,Civil,4,2022,100.0,9.29,0.0,Improving,9.8
+STU1478,Info Tech,5,2022,55.8,8.05,0.0,Declining,6.2
+STU0551,Civil,5,2022,90.7,8.15,0.0,Improving,8.7
+STU0929,Computer Science,6,2024,88.7,8.69,0.0,Stable,7.8
+STU0489,Electronics,7,2023,68.6,7.06,3.0,Stable,7.0
+STU1398,Mechanical,8,2024,51.8,5.87,3.0,Declining,4.9
+STU1172,Mechanical,2,2025,74.8,6.84,1.0,Stable,4.7
+STU0147,Electronics,6,2022,96.5,7.98,1.0,Declining,7.5
+STU0403,CS,8,2022,74.6,6.96,0.0,Stable,5.1
+STU0955,Computer Science,3,2025,59.0,5.94,0.0,Stable,6.3
+STU1447,Information Technology,3,2022,,5.37,3.0,Declining,2.5
+STU0660,Civil,8,2023,73.7,7.32,0.0,Improving,6.3
+STU0464,Mechanical,3,2022,100.0,8.69,0.0,Improving,7.2
+STU0187,Information Technology,8,2024,72.2,6.12,0.0,Stable,6.8
+STU1148,Electronics,3,2025,95.6,9.12,0.0,Stable,7.3
+STU1225,Civil,8,2023,88.6,7.51,0.0,Improving,11.1
+STU0609,Mechanical,1,2022,100.0,7.63,2.0,Stable,10.9
+STU0144,electronics,4,2023,81.0,7.84,0.0,Stable,9.5
+STU0752,Electronics,3,2024,64.7,6.91,2.0,Stable,6.4
+STU0982,Electronics,7,2022,86.8,9.5,0.0,Improving,11.8
+STU0198,Computer Science,1,2025,85.5,8.23,0.0,Improving,9.6
+STU0884,Civil,2,2023,75.7,6.35,1.0,Improving,2.7
+STU0280,Civil,5,2023,56.3,7.38,1.0,Stable,8.0
+STU0294,Electronics,5,2024,60.8,5.91,2.0,Declining,11.3
+STU1406,Electronics,3,2025,40.6,4.7,3.0,Declining,8.2
+STU0401,Civil,8,2023,79.3,7.28,0.0,Stable,8.3
+STU0123,Information Technology,5,2023,71.9,6.94,2.0,Stable,5.6
+STU1208,Civil,5,2025,81.9,7.9,1.0,,5.4
+STU0203,Computer Science,5,2023,69.6,6.78,3.0,Declining,9.9
+STU0836,Electronics,7,2024,89.7,7.88,1.0,Improving,12.3
+STU0247,Electronics,3,2023,55.2,6.3,1.0,Improving,10.9
+STU1464,Electronics,2,2025,103.6,8.2,0.0,Stable,5.1
+STU1450,Civil,6,2023,78.8,7.52,1.0,Stable,7.6
+STU1154,Comp Science,5,2022,87.7,9.06,0.0,Improving,9.1
+STU0385,Information Technology,1,2023,86.6,,1.0,Stable,14.3
+STU1361,Information Technology,5,2022,92.7,9.94,0.0,Stable,13.0
+STU0855,Electronics,5,2022,49.3,6.28,4.0,Stable,1.0
+STU0220,Computer Science,2,2024,86.6,7.8,0.0,Improving,6.9
+STU0642,Information Technology,7,2024,66.6,8.42,4.0,Declining,7.8
+STU0002,Information Technology,4,2025,63.1,6.5,3.0,Declining,4.8
+STU0113,Info Tech,7,2025,50.0,4.8,2.0,Declining,6.0
+STU0699,Mechanical,1,2025,100.0,8.59,0.0,Improving,11.4
+STU1473,Civil,6,2025,96.6,8.88,1.0,Declining,10.2
+STU0952,Civil,6,2023,,6.47,0.0,Improving,10.6
+STU1356,Electronics,6,2025,76.8,7.53,0.0,Stable,6.2
+STU1292,Electronics,5,2024,79.9,6.64,0.0,Improving,
+STU1395,Mechanical,8,2024,96.3,10.0,0.0,Stable,13.1
+STU0442,information technology,8,2023,,8.13,1.0,Improving,10.5
+STU1137,Mechanical,5,2025,87.6,8.02,0.0,Improving,8.1
+STU1257,Electronics,8,2022,99.8,7.74,0.0,Improving,9.8
+STU0664,Civil,7,2024,85.2,8.48,0.0,Improving,5.5
+STU1469,CS,8,2025,79.1,8.7,1.0,Stable,9.8
+STU1258,Civil,8,2025,100.0,9.23,0.0,Declining,9.5
+STU1486,Computer Science,3,2023,67.2,7.53,4.0,Stable,4.9
+STU0318,Mechanical,8,2025,75.4,8.28,2.0,Stable,11.0
+STU0649,Computer Science,6,2024,81.8,7.85,2.0,Declining,4.9
+STU0710,Computer Science,7,2025,100.0,10.0,0.0,Stable,10.2
+STU1283,Information Technology,2,2022,100.0,9.67,0.0,Improving,8.4
+STU0973,Information Technology,6,2024,48.7,5.46,3.0,Declining,5.8
+STU0628,Mechanical,8,2022,86.4,8.88,1.0,Declining,9.3
+STU0633,Electronics,5,2025,83.8,8.52,3.0,Declining,9.2
+STU1307,Electronics,7,2025,84.4,8.65,1.0,Declining,7.4
+STU1249,Information Technology,6,2023,67.4,6.97,4.0,Improving,9.7
+STU1139,Electronics,2,2022,83.5,7.48,2.0,Stable,9.6
+STU1255,Civil,6,2023,76.8,10.0,1.0,Declining,11.8
+STU1372,Info Tech,7,2024,88.0,8.35,0.0,Stable,9.1
+STU1355,Electronics,6,2022,76.6,9.13,0.0,Stable,8.5
+STU0993,Electronics,8,2022,84.8,8.77,0.0,Stable,12.3
+STU1425,Civil,1,2022,83.0,8.48,0.0,Stable,8.0
+STU0796,Mechanical,1,2023,83.4,7.94,1.0,Declining,10.2
+STU0646,Mechanical,3,2023,65.9,6.67,1.0,Stable,
+STU1013,Information Technology,1,2023,79.1,8.84,0.0,Declining,11.7
+STU0557,Civil,2,2024,81.9,7.43,3.0,Declining,6.9
+STU0682,Information Technology,6,2022,51.2,6.2,1.0,Declining,
+STU0578,electronics,4,2022,76.0,5.13,2.0,Stable,9.4
+STU1110,Civil,7,2024,63.2,3.62,1.0,Improving,7.0
+STU1267,Civil,2,2023,81.2,7.02,0.0,Stable,7.1
+STU1184,Mech,8,2023,95.1,9.44,0.0,Stable,11.9
+STU0525,Information Technology,2,2025,100.0,9.62,0.0,Stable,
+STU1060,Information Technology,2,2024,66.7,6.04,1.0,Stable,6.0
+STU0541,Computer Science,6,2024,,-1.46,1.0,Declining,
+STU1195,Information Technology,3,2024,60.3,7.37,2.0,Improving,7.8
+STU0749,Computer Science,8,2024,84.1,7.45,1.0,Stable,11.6
+STU1428,Civil,1,2025,61.8,5.9,1.0,Improving,5.2
+STU0485,Computer Science,2,2025,49.9,4.49,1.0,Stable,5.1
+STU0096,Civil,1,2025,87.1,6.91,0.0,Improving,7.1
+STU1021,Computer Science,2,2025,,9.06,0.0,Improving,9.2
+STU0564,Electronics,1,2024,74.0,7.1,0.0,Improving,6.4
+STU1265,Computer Science,1,2025,100.0,,,Improving,
+STU0743,Mechanical,2,2022,95.7,9.33,0.0,Improving,5.5
+STU0864,Mechanical,6,2024,81.0,8.91,0.0,Improving,9.6
+STU0892,Info Tech,8,2025,54.8,6.55,0.0,Improving,6.1
+STU1039,Mechanical,4,2025,62.4,7.45,2.0,Stable,8.3
+STU0207,Information Technology,4,2023,84.9,8.05,1.0,Stable,10.5
+STU0393,Information Technology,1,2022,57.7,5.98,3.0,Declining,8.3
+STU0795,Electronics,6,2023,70.0,6.53,0.0,Improving,5.0
+STU0871,Civil,8,2025,76.2,,0.0,Stable,8.9
+STU0398,Civil,5,2025,74.2,7.65,3.0,Declining,4.1
+STU0767,Mechanical,1,2025,68.9,6.47,1.0,Declining,9.1
+STU1418,Mechanical,5,2022,59.4,7.1,5.0,Declining,2.9
+STU1242,Information Technology,3,2023,46.1,6.71,3.0,Declining,4.3
+STU1029,Electronics,8,2025,84.5,8.71,0.0,Improving,7.2
+STU0643,Information Technology,4,2024,61.0,6.57,1.0,Declining,6.7
+STU0613,Information Technology,4,2024,66.9,7.29,0.0,Improving,5.7
+STU0961,Electronics,2,2025,89.6,7.2,1.0,Stable,5.5
+STU0726,Computer Science,5,2022,55.3,6.51,2.0,Stable,6.0
+STU0684,Mechanical,5,2025,82.5,7.16,2.0,Improving,6.7
+STU0099,Mechanical,4,2025,70.9,8.27,0.0,Declining,7.9
+STU0805,Mechanical,6,2024,67.2,8.4,0.0,Improving,8.5
+STU0407,Computer Science,7,2022,83.5,6.16,0.0,Stable,11.0
+STU0503,Information Technology,8,2024,84.9,7.64,3.0,Declining,11.8
+STU1072,Civil,4,2024,91.4,7.53,2.0,Stable,10.6
+STU1057,Mechanical,2,2023,58.2,6.97,1.0,Stable,6.0
+STU0930,Info Tech,4,2024,47.3,6.42,2.0,Declining,3.7
+STU0780,Computer Science,6,2025,100.0,7.64,0.0,Improving,11.6
+STU0201,Mechanical,1,2022,90.6,8.05,0.0,Stable,9.9
+STU0135,Civil,1,2025,,6.98,0.0,Improving,13.1
+STU1052,Information Technology,5,2023,80.4,9.49,0.0,Improving,5.3
+STU0041,Electronics,2,2022,105.4,7.35,0.0,Stable,9.8
+STU1018,Information Technology,2,2024,100.0,9.84,1.0,Stable,8.3
+STU0231,Mechanical,6,2022,70.8,8.34,0.0,Improving,6.7
+STU0379,Mechanical,4,2022,59.2,4.48,3.0,Declining,3.6
+STU0289,Civil,2,2024,100.0,10.0,0.0,Stable,9.5
+STU0419,Information Technology,6,2024,71.7,6.49,0.0,Improving,8.7
+STU0392,Information Technology,1,2022,96.7,8.17,0.0,Improving,9.2
+STU0593,Information Technology,6,2025,72.7,6.51,0.0,Improving,6.2
+STU1163,Civil,8,2025,79.2,6.66,0.0,Stable,9.0
+STU1087,Mechanical,7,2022,81.3,8.55,0.0,Improving,
+STU0648,Information Technology,7,2023,68.5,6.82,3.0,Declining,8.1
+STU1153,Civil,7,2024,81.5,8.92,0.0,Improving,10.4
+STU1368,Electronics,4,2025,,7.48,0.0,Stable,8.0
+STU0521,Electronics,2,2023,80.9,7.8,0.0,Declining,7.5
+STU0065,Mechanical,6,2023,75.1,6.39,1.0,Declining,9.2
+STU0015,Electronics,2,2023,84.6,8.67,0.0,Improving,7.1
+STU1181,Mechanical,1,2025,100.0,9.49,1.0,Stable,12.2
+STU1065,Computer Science,1,2022,92.7,8.33,0.0,Improving,11.2
+STU0493,Electronics,2,2024,91.5,8.29,0.0,Improving,9.0
+STU0380,Information Technology,5,2023,90.2,8.44,0.0,Stable,
+STU0188,Computer Science,6,2024,81.8,8.06,2.0,Stable,1.0
+STU0764,Information Technology,3,2025,75.2,6.73,3.0,Stable,5.5
+STU0217,Electronics,2,2023,55.2,7.35,2.0,Declining,8.7
+STU0792,IT,5,2022,61.0,6.28,2.0,Stable,8.9
+STU1077,Information Technology,8,2022,100.0,9.95,0.0,Stable,12.5
+STU0879,Information Technology,7,2024,63.7,7.68,2.0,Stable,9.6
+STU0338,ECE,4,2023,67.3,7.61,3.0,Declining,
+STU0720,Mechanical,6,2022,73.5,6.76,0.0,Stable,8.0
+STU0296,Info Tech,8,2025,100.0,9.22,0.0,Improving,10.1
+STU1017,Information Technology,5,2024,52.0,6.51,2.0,Stable,
+STU1276,Mechanical,1,2024,66.0,5.74,3.0,Declining,5.7
+STU0456,Mechanical,1,2025,56.3,5.67,0.0,Improving,3.7
+STU1004,Electronics,1,2023,100.0,8.89,0.0,Improving,8.9
+STU0816,Electronics,4,2022,71.2,,4.0,Declining,
+STU0270,Electronics,4,2025,66.6,7.53,2.0,Declining,4.1
+STU0996,Mechanical,2,2024,,5.41,2.0,Stable,8.9
+STU0202,Civil,1,2022,68.7,7.0,0.0,Improving,5.7
+STU0162,Computer Science,2,2023,60.8,5.42,4.0,Declining,5.3
+STU0730,Computer Science,5,2022,61.5,,3.0,Declining,3.5
+STU0402,Information Technology,4,2023,44.7,6.38,3.0,Stable,6.6
+STU0703,Mechanical,7,2022,83.9,8.19,1.0,Stable,8.2
+STU1130,Mechanical,5,2024,89.6,8.09,0.0,Declining,12.1
+STU0566,Electronics,5,2025,73.5,6.9,0.0,Improving,8.3
+STU1414,Information Technology,2,2024,62.2,6.75,1.0,Stable,6.5
+STU1022,Computer Science,4,2022,62.7,5.54,4.0,,7.4
+STU1026,Information Technology,5,2022,46.1,5.89,2.0,Improving,5.1
+STU1412,Civil,8,2025,100.0,8.56,1.0,Improving,10.4
+STU1105,Civil,7,2024,62.2,7.74,3.0,Declining,6.0
+STU0206,Civil,5,2024,89.7,8.65,0.0,Improving,11.9
+STU0035,Civil,6,2024,75.4,,2.0,Declining,7.4
+ STU0776 ,Computer Science,1,2022,46.0,6.58,1.0,Declining,4.2
+STU0509,Information Technology,2,2023,84.1,8.36,1.0,Declining,
+STU1452,computer science,3,2023,94.1,,0.0,Stable,13.1
+STU1479,Information Technology,4,2025,96.9,8.7,0.0,Declining,10.8
+STU1421,Computer Science,7,2025,88.2,10.0,0.0,Improving,7.1
+STU1391,Mechanical,7,2025,82.8,9.02,1.0,Declining,4.0
+STU0092,Computer Science,2,2022,83.3,9.35,1.0,Stable,9.7
+STU1364,Civil,2,2022,98.8,6.71,1.0,Stable,5.9
+STU0898,Computer Science,6,2024,57.0,5.49,1.0,Declining,6.4
+STU0565,Electronics,8,2024,,8.57,1.0,Stable,7.7
+STU1370,Civil,2,2023,70.3,8.85,0.0,Improving,3.4
+STU0777,Mechanical,7,2022,89.5,8.7,,Improving,10.6
+STU0242,Computer Science,4,2025,80.2,8.4,2.0,Stable,8.5
+STU0014,MECHANICAL,6,2023,88.8,7.69,0.0,Stable,9.1
+STU0316,Mechanical,2,2025,62.7,,2.0,Stable,5.2
+STU0601,Civil,7,2022,87.4,10.0,0.0,,6.6
+STU0388,Mechanical,7,2024,68.8,7.6,2.0,Stable,7.5
+STU1298,Civil,8,2025,65.5,7.09,2.0,Declining,6.0
+STU0167,Electronics,8,2025,95.9,7.71,0.0,Stable,12.6
+STU0841,Information Technology,2,2023,92.0,7.36,0.0,Improving,8.8
+STU0021,Mechanical,8,2025,79.5,7.43,2.0,Declining,11.4
+STU0647,Civil,8,2025,91.4,9.25,0.0,Improving,7.3
+STU1155,Mechanical,2,2022,74.8,7.5,0.0,Declining,8.0
+STU0832,Civil,1,2022,33.1,5.09,5.0,Declining,
+STU1268,Information Technology,7,2025,93.4,9.08,0.0,Improving,9.9
+STU0563,Information Technology,1,2025,79.4,9.58,2.0,Declining,7.1
+STU0553,Mechanical,2,2025,86.3,9.16,0.0,Stable,5.7
+STU0687,Information Technology,3,2023,83.2,7.02,0.0,Improving,11.5
+STU0958,Information Technology,4,2024,100.0,8.42,0.0,Stable,14.4
+STU0190,Civil,4,2022,100.0,9.51,0.0,Stable,8.2
+STU0976,Electronics,3,2022,89.4,8.56,0.0,Improving,8.2
+STU0700,Mechanical,6,2023,90.2,9.42,0.0,Improving,
+STU1500,Electronics,3,2022,89.0,8.86,0.0,Improving,8.0
+STU0511,Civil,1,2022,99.1,-0.47,0.0,Improving,9.8
+STU1083,Mechanical,7,2024,72.4,7.47,0.0,Stable,8.1
+STU0475,Civil,2,2022,96.6,7.7,3.0,Declining,8.5
+STU0857,Civil,3,2022,57.5,7.74,2.0,Improving,5.0
+STU0748,Civil,8,2024,88.2,9.49,0.0,Declining,6.8
+STU0253,Electronics,4,2025,61.3,6.82,1.0,Declining,4.9
+STU0022,Information Technology,7,2022,100.0,,0.0,Improving,14.8
+STU1338,Computer Science,7,2022,69.6,,4.0,Declining,7.6
+STU0460,Civil,2,2024,61.3,6.79,1.0,Declining,6.1
+STU1185,Information Technology,5,2024,83.1,8.49,2.0,Improving,7.6
+STU0277,Info Tech,7,2023,55.6,5.53,3.0,Declining,
+STU0956,Computer Science,7,2025,100.0,8.7,0.0,Declining,8.3
+STU1216,Civil,8,2024,54.8,5.1,1.0,,6.8
+ STU0386 ,Computer Science,4,2023,92.5,8.52,0.0,Stable,8.5
+STU0806,Mechanical,5,2024,,7.26,0.0,Stable,11.0
+STU1438,Computer Science,6,2022,100.0,8.73,0.0,Stable,9.4
+STU0908,Civil,8,2025,95.3,10.0,0.0,Improving,9.9
+STU0344,ECE,7,2024,85.1,8.29,0.0,Stable,8.0
+STU0770,Computer Science,5,2022,70.5,6.83,0.0,Improving,7.6
+STU1333,Electronics,7,2025,72.2,6.95,0.0,Improving,7.7
+STU0131,Civil,1,2024,64.5,4.69,,Improving,4.8
+STU0872,Electronics,6,2022,79.4,7.19,2.0,Stable,8.5
+STU1124,Civil,5,2022,92.1,9.23,0.0,Stable,8.9
+STU1397,Mechanical,7,2022,100.0,9.01,0.0,Stable,10.7
+STU0088,Computer Science,2,2025,58.6,5.68,3.0,Stable,5.8
+STU1483,Civil,4,2022,83.0,7.22,3.0,Declining,7.0
+STU0331,Civil,8,2025,82.4,8.48,2.0,Declining,9.4
+STU1239,Computer Science,7,2022,69.1,8.33,0.0,Improving,7.7
+STU0467,Mechanical,5,2023,77.2,9.31,2.0,Declining,7.6
+STU0122,Electronics,4,2022,63.7,6.66,1.0,Declining,0.0
+STU1045,Civil,6,2024,68.9,8.62,1.0,Stable,9.4
+STU1096,Mechanical,2,2024,60.3,7.21,0.0,Stable,7.1
+STU1131,Mechanical,1,2024,84.6,,3.0,Declining,6.9
+STU1295,Civil,7,2023,67.9,6.55,4.0,Declining,4.4
+STU0861,Computer Science,7,2022,97.0,8.36,0.0,Improving,6.7
+STU1460,Information Technology,2,2022,82.3,8.04,1.0,Declining,9.4
+STU1127,Electronics,2,2023,53.0,6.18,1.0,Stable,2.3
